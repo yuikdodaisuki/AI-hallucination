@@ -3,7 +3,7 @@ import sqlite3
 from pathlib import Path
 from concurrent.futures import ProcessPoolExecutor
 import json
-from utils import TextExtractor
+from .utils import TextExtractor
 
 
 class DataConsolidator:

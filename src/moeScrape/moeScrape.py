@@ -10,10 +10,10 @@ import urllib.parse
 import re
 from urllib.parse import urlparse, urljoin
 
-from utils import get_base_url, find_initPubProperty, extract_urls, is_src_site_format, is_jyb_format
+from .utils import get_base_url, find_initPubProperty, extract_urls, is_src_site_format, is_jyb_format
 
 
-def scrape_all_pages(base_url, search_term, max_pages=10):
+def scrape_all_pages(base_url, search_term, download_keywords, max_pages=10):
     # 第一页URL
     encoded_term = urllib.parse.quote(search_term)
     print(encoded_term)
@@ -42,11 +42,11 @@ def scrape_all_pages(base_url, search_term, max_pages=10):
     # 接下来根据我们获得的总搜索结果来判断页数
     while True:
         print(f"正在爬取第{page}页")
-        this_page = extract_links_from_page(soup, page)
+        this_page = extract_links_from_page(soup, page, download_keywords) # 新增 download_keywords 参数
         if not this_page:
             print("终止爬取")
             break
-        if page >= 3:
+        if page >= max_pages:
             print("爬取3页后终止爬取")
             break
         page += 1
@@ -54,7 +54,7 @@ def scrape_all_pages(base_url, search_term, max_pages=10):
 
 # 这个函数用于对于单页内容进行解析，模拟搜索拉取的post请求，从而获得当前页面的所有搜索结果的json。我们可以获取其中的url进行进一步访问
 # 可以更改输入的page从而进行不同页的请求
-def extract_links_from_page(soup, page):
+def extract_links_from_page(soup, page, download_keywords): # 新增 download_keywords 参数
     # 创建会话对象以维持cookies
     session = requests.Session()
     # 使用find_initPubProperty方法来获取原html文件里的相关参数，以用于传输
@@ -112,7 +112,7 @@ def extract_links_from_page(soup, page):
         # 对于每一个url都进行单独页面的解析。这里是解析内容的关键
         for item in urls:
             url = item
-            single_response = extract_single_article(url)
+            single_response = extract_single_article(url, download_keywords) # 新增 download_keywords 参数
 
         return True
 
@@ -123,7 +123,7 @@ def extract_links_from_page(soup, page):
 
 
 # 单独分析一个url里的内容
-def extract_single_article(url):
+def extract_single_article(url, download_keywords): # 新增 download_keywords 参数
     print(url)
     headers = {
         'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, '
@@ -138,10 +138,22 @@ def extract_single_article(url):
         return []
     # 使用parse_policy_document来处理html文件为json文件？
     policy_info = parse_policy_document(response.text, url)
-    saved_path = save_policy_data(policy_info, get_base_url(url))
 
-    print(f"数据已保存至：{saved_path}")
-    return saved_path
+    # 修改：使用传入的 download_keywords
+    content_to_check = policy_info.get('文件标题', '') + policy_info.get('正文内容', '')
+    should_download = False
+    for keyword in download_keywords:
+        if keyword in content_to_check:
+            should_download = True
+            break
+
+    if should_download:
+        saved_path = save_policy_data(policy_info, get_base_url(url))
+        print(f"数据已保存至：{saved_path}")
+        return saved_path
+    else:
+        print(f"文件内容未包含检索词条，跳过下载：{policy_info.get('文件标题', '未知标题')}")
+        return None
 
 
 # 解析html文件为详细的内容，借助了不同页面的格式来进行识别
@@ -410,7 +422,8 @@ def generate_attachment_name(attachment, index):
 
 
 def startScrape():
-    scrape_all_pages("https://so.moe.gov.cn/", "双一流")
-
+    download = ["A类","A+类"] #检索词条
+    scrape_all_pages("https://so.moe.gov.cn/", "学科评估", download) # 修改：传入 download 列表
+    
 
 
