@@ -1,5 +1,6 @@
 import csv
 import os
+import configparser # 确保 python-docx 已安装
 import docx # 确保 python-docx 已安装
 from openai import OpenAI # 确保 openai 库已安装
 import json # 用于解析模型输出 和 meta.json
@@ -14,9 +15,25 @@ except ImportError:
 
 # --- 配置 OpenAI 客户端 ---
 def get_llm_client():
-    api_key = os.getenv("DASHSCOPE_API_KEY")
+    # 创建 ConfigParser 对象
+    config = configparser.ConfigParser()
+    # 获取当前脚本所在的目录
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    config_path = os.path.join(current_dir, 'config.ini')
+
+    # 读取配置文件
+    if os.path.exists(config_path):
+        config.read(config_path)
+        api_key = config.get('DEFAULT', 'DASHSCOPE_API_KEY', fallback=None)
+    else:
+        api_key = None # 如果配置文件不存在，则 api_key 为 None
+
+    # api_key = os.getenv("DASHSCOPE_API_KEY") # 旧的获取方式，可以注释或删除
     if not api_key:
-        print("警告: 环境变量 DASHSCOPE_API_KEY 未设置。请确保 API Key 已正确配置。")
+        print("警告: 未在 config.ini 文件中找到 DASHSCOPE_API_KEY，或配置文件不存在。请确保 API Key 已正确配置。")
+        # 您可以在这里决定是退出程序还是使用备用方案
+        # exit() 或者 raise ValueError("API Key 未配置")
+
     client = OpenAI(
         api_key=api_key,
         base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
