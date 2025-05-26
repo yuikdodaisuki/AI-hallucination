@@ -66,9 +66,8 @@ METRIC_DATA_MAPPING = {
     ],
     
     # 双一流学科指标 - 主要使用moepolicies
-    '国家"双一流"学科数量': [
+    '国家双一流学科数量': [
         'moepolicies',               # 主要：双一流数据在moepolicies中
-        'subject_evaluation'         # 备用：学科评估可能包含双一流信息
     ],
     
     # 🔥 教育部评估A类学科指标 - 仅使用subject_evaluation 🔥
@@ -77,7 +76,7 @@ METRIC_DATA_MAPPING = {
     ],
     
     # 软科排名指标 - 使用软科专门数据源
-    '软科"中国最好学科"排名前10%学科数量': [
+    '软科中国最好学科排名前10%学科数量': [
         'ruanke_subjects',           # 软科排名专门数据
         'subject_evaluation',        # 备用：学科评估可能包含软科信息
         'moepolicies'                # 备用：教育部数据
@@ -164,7 +163,7 @@ METRIC_CATEGORIES = {
     'subject_metrics': [
         'ESI前1%学科数量',
         'ESI前1‰学科数量', 
-        '国家"双一流"学科数量',
+        '国家双一流学科数量',
         '教育部评估A类学科数量',
         '软科"中国最好学科"排名前10%学科数量'
     ],
@@ -176,13 +175,163 @@ METRIC_CATEGORIES = {
     ]
 }
 
+# 🔥 添加指标别名配置，便于命令行使用 🔥
+METRIC_ALIASES = {
+    # ESI学科指标别名
+    'esi1%': 'ESI前1%学科数量',
+    'esi1‰': 'ESI前1‰学科数量',
+    'esi前1%': 'ESI前1%学科数量',
+    'esi前1‰': 'ESI前1‰学科数量',
+    'esi_1percent': 'ESI前1%学科数量',
+    'esi_1permille': 'ESI前1‰学科数量',
+    'esi_top1': 'ESI前1%学科数量',
+    'esi_top1000': 'ESI前1‰学科数量',
+    'esi': 'ESI前1%学科数量',  # 默认指向1%
+    
+    # 双一流学科别名
+    'shuangyiliu': '国家双一流学科数量',
+    '双一流': '国家双一流学科数量',
+    'double_first': '国家双一流学科数量',
+    'world_class': '国家双一流学科数量',
+    'first_class_discipline': '国家双一流学科数量',
+    'syl': '国家双一流学科数量',
+    'worldclass': '国家双一流学科数量',
+    
+    # 教育部学科评估别名
+    'moe_eval': '教育部评估A类学科数量',
+    'a_class': '教育部评估A类学科数量',
+    '学科评估': '教育部评估A类学科数量',
+    '教育部评估': '教育部评估A类学科数量',
+    'subject_eval': '教育部评估A类学科数量',
+    'moe_assessment': '教育部评估A类学科数量',
+    'evaluation': '教育部评估A类学科数量',
+    'aclass': '教育部评估A类学科数量',
+    
+    # 软科排名别名
+    'ruanke': '软科中国最好学科排名前10%学科数量',
+    'shanghairanking': '软科中国最好学科排名前10%学科数量',
+    '软科前10%': '软科中国最好学科排名前10%学科数量',
+    'best_subjects': '软科中国最好学科排名前10%学科数量',
+    'shanghai_ranking': '软科中国最好学科排名前10%学科数量',
+    'ranking': '软科中国最好学科排名前10%学科数量',
+    'top10': '软科中国最好学科排名前10%学科数量',
+    
+    # 本科专业总数别名
+    'majors_total': '本科专业总数',
+    '专业总数': '本科专业总数',
+    'total_majors': '本科专业总数',
+    'undergraduate_total': '本科专业总数',
+    'majors': '本科专业总数',
+    'total': '本科专业总数',
+    'major_count': '本科专业总数',
+    
+    # 专业认证别名
+    'majors_certified': '本科专业认证通过数',
+    '专业认证': '本科专业认证通过数',
+    'certified': '本科专业认证通过数',
+    'certification': '本科专业认证通过数',
+    'accreditation': '本科专业认证通过数',
+    'certified_majors': '本科专业认证通过数',
+    'accredited': '本科专业认证通过数',
+    
+    # 国家级一流专业别名
+    'national_majors': '国家级一流本科专业建设点',
+    '国家一流专业': '国家级一流本科专业建设点',
+    'national_first_class': '国家级一流本科专业建设点',
+    'national_excellence': '国家级一流本科专业建设点',
+    'national': '国家级一流本科专业建设点',
+    'guojia': '国家级一流本科专业建设点',
+    'first_class_national': '国家级一流本科专业建设点',
+    
+    # 省级一流专业别名
+    'provincial_majors': '省级一流本科专业建设点',
+    '省级一流专业': '省级一流本科专业建设点',
+    'provincial_first_class': '省级一流本科专业建设点',
+    'provincial': '省级一流本科专业建设点',
+    'sheng': '省级一流本科专业建设点',
+    'provincial_excellence': '省级一流本科专业建设点',
+    'first_class_provincial': '省级一流本科专业建设点',
+    
+    # 数字别名（便于快速选择）
+    '1': 'ESI前1%学科数量',
+    '2': 'ESI前1‰学科数量',
+    '3': '国家双一流学科数量',
+    '4': '教育部评估A类学科数量',
+    '5': '软科中国最好学科排名前10%学科数量',
+    '6': '本科专业总数',
+    '7': '本科专业认证通过数',
+    '8': '国家级一流本科专业建设点',
+    '9': '省级一流本科专业建设点',
+}
+
+# 获取所有可用指标（包括别名）
+def get_available_metrics():
+    """获取所有可用指标，包括别名"""
+    all_metrics = METRIC_CATEGORIES['subject_metrics'] + METRIC_CATEGORIES['major_metrics']
+    return {
+        'all_metrics': all_metrics,
+        'subject_metrics': METRIC_CATEGORIES['subject_metrics'],
+        'major_metrics': METRIC_CATEGORIES['major_metrics'],
+        'aliases': METRIC_ALIASES
+    }
+
+def resolve_metric_name(input_name):
+    """解析指标名称，支持别名和模糊匹配"""
+    # 直接匹配
+    all_metrics = METRIC_CATEGORIES['subject_metrics'] + METRIC_CATEGORIES['major_metrics']
+    if input_name in all_metrics:
+        return input_name
+    
+    # 别名匹配（精确匹配）
+    if input_name in METRIC_ALIASES:
+        return METRIC_ALIASES[input_name]
+    
+    # 别名匹配（不区分大小写）
+    for alias, real_name in METRIC_ALIASES.items():
+        if input_name.lower() == alias.lower():
+            return real_name
+    
+    # 部分匹配（在真实指标名中查找）
+    for metric in all_metrics:
+        # 移除标点符号进行模糊匹配
+        clean_metric = metric.replace('"', '').replace('""', '').replace('（', '').replace('）', '')
+        clean_input = input_name.replace('"', '').replace('""', '').replace('（', '').replace('）', '')
+        
+        if clean_input in clean_metric or clean_metric in clean_input:
+            return metric
+    
+    return None
+
+def get_metric_suggestions(input_name):
+    """获取指标建议（当输入不匹配时）"""
+    suggestions = []
+    all_metrics = METRIC_CATEGORIES['subject_metrics'] + METRIC_CATEGORIES['major_metrics']
+    
+    # 基于关键词匹配
+    input_lower = input_name.lower()
+    
+    # 检查别名
+    for alias, real_name in METRIC_ALIASES.items():
+        if input_lower in alias.lower() or alias.lower() in input_lower:
+            if real_name not in suggestions:
+                suggestions.append(f"{alias} → {real_name}")
+    
+    # 检查指标名
+    for metric in all_metrics:
+        metric_lower = metric.lower()
+        if input_lower in metric_lower or any(word in metric_lower for word in input_lower.split()):
+            if metric not in [s.split(' → ')[-1] for s in suggestions]:
+                suggestions.append(metric)
+    
+    return suggestions
+
 # 指标关键词配置
 METRIC_KEYWORDS = {
     'ESI前1%学科数量': ['ESI', '前1%', '学科', 'Essential Science Indicators'],
     'ESI前1‰学科数量': ['ESI', '前1‰', '学科', 'Essential Science Indicators'],
-    '国家"双一流"学科数量': ['双一流', '世界一流学科', '国家', '学科建设'],
+    '国家双一流学科数量': ['双一流', '世界一流学科', '国家', '学科建设'],
     '教育部评估A类学科数量': ['教育部', '学科评估', 'A类', 'A+', 'A', 'A-', '第四轮', '第五轮'],
-    '软科"中国最好学科"排名前10%学科数量': ['软科', '中国最好学科', '前10%', '排名'],
+    '软科中国最好学科排名前10%学科数量': ['软科', '中国最好学科', '前10%', '排名'],
     '本科专业总数': ['本科专业', '专业总数', '专业数量'],
     '本科专业认证通过数': ['专业认证', '认证通过', '工程教育认证', '师范类专业认证'],
     '国家级一流本科专业建设点': ['国家级', '一流本科专业', '专业建设点'],
@@ -204,6 +353,8 @@ REQUIRED_DIRECTORIES = [
     'consolidated'
     # 注意：moepolicies已存在，不需要创建
 ]
+
+
 
 # 调试配置
 DEBUG_CONFIG = {

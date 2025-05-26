@@ -14,7 +14,7 @@ from .utils import get_base_url, find_initPubProperty, extract_urls, is_src_site
 from requests.exceptions import ChunkedEncodingError, ConnectionError, Timeout
 
 
-def scrape_all_pages(base_url, search_term, download_keywords, max_pages=10):
+def scrape_all_pages(base_url, search_term, download_keywords, max_pages=2):
     """
     爬取教育部网站搜索结果的多个页面
     

@@ -9,6 +9,8 @@ if project_root not in sys.path:
     
 from src.AIquest.metric_processor import MetricDataProcessor
 from src.AIquest.utils.directory_manager import DirectoryManager
+# 🔥 导入别名配置 🔥
+from src.AIquest.config import METRIC_ALIASES, resolve_metric_name, get_metric_suggestions
 
 
 def get_project_paths():
@@ -75,7 +77,45 @@ def list_available_metrics():
         for i, metric in enumerate(metrics['major_metrics'], len(metrics['subject_metrics']) + 1):
             print(f"  {i:2d}. {metric}")
         
-        print(f"\n总计: {len(metrics['all_metrics'])} 个指标")
+        # 🔥 添加别名显示 🔥
+        print("\n🔗 常用别名:")
+        print("\n  📚 学科指标别名:")
+        subject_aliases = {k: v for k, v in METRIC_ALIASES.items() if v in metrics['subject_metrics']}
+        grouped_aliases = {}
+        for alias, real_name in subject_aliases.items():
+            if real_name not in grouped_aliases:
+                grouped_aliases[real_name] = []
+            grouped_aliases[real_name].append(alias)
+        
+        for real_name, aliases in grouped_aliases.items():
+            print(f"    • {real_name}:")
+            for alias in aliases[:3]:  # 只显示前3个别名
+                print(f"      - {alias}")
+            if len(aliases) > 3:
+                print(f"      - ... 还有 {len(aliases) - 3} 个别名")
+        
+        print("\n  🎓 专业指标别名:")
+        major_aliases = {k: v for k, v in METRIC_ALIASES.items() if v in metrics['major_metrics']}
+        grouped_aliases = {}
+        for alias, real_name in major_aliases.items():
+            if real_name not in grouped_aliases:
+                grouped_aliases[real_name] = []
+            grouped_aliases[real_name].append(alias)
+        
+        for real_name, aliases in grouped_aliases.items():
+            print(f"    • {real_name}:")
+            for alias in aliases[:3]:  # 只显示前3个别名
+                print(f"      - {alias}")
+            if len(aliases) > 3:
+                print(f"      - ... 还有 {len(aliases) - 3} 个别名")
+        
+        # 🔥 显示数字快捷方式 🔥
+        print("\n🔢 数字快捷方式:")
+        number_aliases = {k: v for k, v in METRIC_ALIASES.items() if k.isdigit()}
+        for num, metric in sorted(number_aliases.items()):
+            print(f"  {num}. {metric}")
+        
+        print(f"\n总计: {len(metrics['all_metrics'])} 个指标，{len(METRIC_ALIASES)} 个别名")
         return metrics
     except Exception as e:
         print(f"❌ 获取指标列表时发生错误: {e}")
@@ -126,6 +166,9 @@ def validate_system():
         # 检查问题文件
         questions_exists = os.path.exists(paths['questions_csv'])
         print(f"  📋 问题文件: {'✅ 存在' if questions_exists else '❌ 不存在'} ({paths['questions_csv']})")
+        
+        # 🔥 验证别名配置 🔥
+        print(f"  🔗 可用别名: {len(METRIC_ALIASES)} 个")
         
     except Exception as e:
         print(f"❌ 验证系统状态时发生错误: {e}")
@@ -202,7 +245,7 @@ def print_usage():
     print("   python -m src.AIquest.main check              # 检查目录状态")
     print("   python -m src.AIquest.main migrate            # 迁移现有数据")
     print("   python -m src.AIquest.main compat             # 兼容模式（使用原quest.py）")
-    print("   python -m src.AIquest.main <指标名称>          # 处理特定指标")
+    print("   python -m src.AIquest.main <指标名称或别名>    # 处理特定指标")
     print("\n🏗️  目录管理:")
     print("   init    - 创建所有必需的数据目录")
     print("   check   - 检查目录状态和文件数量")
@@ -211,10 +254,17 @@ def print_usage():
     print("\n📊 支持的9个指标:")
     print("   🔬 学科指标: ESI前1%、ESI前1‰、双一流、教育部评估A类、软科前10%")
     print("   🎓 专业指标: 专业总数、专业认证、国家级一流、省级一流")
-    print("\n💡 示例:")
-    print("   python -m src.AIquest.main 'ESI前1%学科数量'")
-    print("   python -m src.AIquest.main '教育部评估A类学科数量'")
-    print("   python -m src.AIquest.main '本科专业总数'")
+    print("\n🔗 使用别名简化输入:")
+    print("   python -m src.AIquest.main 1                  # ESI前1%学科数量")
+    print("   python -m src.AIquest.main shuangyiliu        # 双一流学科")
+    print("   python -m src.AIquest.main moe_eval           # 教育部评估A类")
+    print("   python -m src.AIquest.main esi1%              # ESI前1%")
+    print("   python -m src.AIquest.main ruanke             # 软科前10%")
+    print("   python -m src.AIquest.main majors_total       # 专业总数")
+    print("\n💡 处理带引号的指标名称:")
+    print("   方法1: python -m src.AIquest.main shuangyiliu      # 使用别名（推荐）")
+    print("   方法2: python -m src.AIquest.main '国家\"双一流\"学科数量'  # 单引号包围")
+    print("   方法3: python -m src.AIquest.main \"国家\\\"双一流\\\"学科数量\"  # 转义字符")
 
 
 def main():
@@ -263,24 +313,45 @@ def main():
             print_usage()
             return 0
         else:
-            # 处理特定指标
+            # 🔥 处理特定指标，支持别名解析 🔥
             if not os.path.exists(paths['questions_csv']):
                 print(f"❌ 问题文件不存在: {paths['questions_csv']}")
                 return 1
             
-            metric_name = command
+            input_metric_name = command
+            # 🔥 使用别名解析功能 🔥
+            metric_name = resolve_metric_name(input_metric_name)
+            
+            if not metric_name:
+                print(f"❌ 不支持的指标: '{input_metric_name}'")
+                
+                # 🔥 提供建议 🔥
+                suggestions = get_metric_suggestions(input_metric_name)
+                if suggestions:
+                    print(f"\n💡 您可能想要的是:")
+                    for suggestion in suggestions[:5]:
+                        print(f"  • {suggestion}")
+                
+                print(f"\n✅ 查看所有支持的指标和别名:")
+                print(f"   python -m src.AIquest.main list")
+                return 1
+            
+            # 🔥 显示别名映射信息 🔥
+            print(f"🚀 开始处理指标: {metric_name}")
+            if input_metric_name != metric_name:
+                print(f"   (别名 '{input_metric_name}' → '{metric_name}')")
+            
             try:
                 processor = MetricDataProcessor()
                 available_metrics = processor.get_available_metrics()['all_metrics']
                 
                 if metric_name not in available_metrics:
-                    print(f"❌ 不支持的指标: {metric_name}")
+                    print(f"❌ 解析后的指标不在可用列表中: {metric_name}")
                     print("\n✅ 支持的指标:")
                     for metric in available_metrics:
                         print(f"  - {metric}")
                     return 1
                 
-                print(f"🚀 开始处理指标: {metric_name}")
                 success = run_single_metric(metric_name, paths['questions_csv'], paths['output_base'])
                 return 0 if success else 1
             except Exception as e:
