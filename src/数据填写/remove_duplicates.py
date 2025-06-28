@@ -90,7 +90,10 @@ def analyze_data_structure(data):
 
 def main():
     """主函数"""
-    input_file = "/Users/a1/study/爬虫/AI-hallucination/src/data/subject_evaluation/subject_evaluation_data.json"
+    # 获取当前脚本所在目录的上级目录（AI-hallucination）
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.dirname(os.path.dirname(current_dir))  # 回到AI-hallucination目录
+    input_file = os.path.join(base_dir, "src/data/subject_evaluation/subject_evaluation_data.json")
     
     if not os.path.exists(input_file):
         print(f"错误: 文件不存在 {input_file}")

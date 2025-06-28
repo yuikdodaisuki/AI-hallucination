@@ -135,7 +135,9 @@ def process_single_indicator(base_dir, json_file, indicator_name, indicators_dat
 def main():
     """主函数"""
     # 文件路径配置
-    base_dir = "/Users/a1/study/爬虫/AI-hallucination"
+    # 获取当前脚本所在目录的上级目录（AI-hallucination）
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.dirname(os.path.dirname(current_dir))  # 回到AI-hallucination目录
     json_file = os.path.join(base_dir, "src/data/school_data/school_intro_data_20250615_162208.json")
     
     # 检查JSON文件是否存在

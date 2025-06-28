@@ -133,7 +133,9 @@ def process_national_smart_platform_courses(base_dir, json_file, courses_data):
 def main():
     """主函数"""
     # 文件路径配置
-    base_dir = "/Users/a1/study/爬虫/AI-hallucination"
+    # 获取当前脚本所在目录的上级目录（AI-hallucination）
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.dirname(os.path.dirname(current_dir))  # 回到AI-hallucination目录
     json_file = os.path.join(base_dir, "src/data/consolidated/国家级高等教育智慧平台课程_data.json")
     
     # 检查JSON文件是否存在

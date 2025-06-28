@@ -51,5 +51,8 @@ def fix_field_names(json_file_path):
 
 # 使用示例
 if __name__ == "__main__":
-    file_path = "/Users/a1/study/爬虫/AI-hallucination/src/data/consolidated/ESI前1%学科数量_data.json"
+    # 获取当前脚本所在目录的上级目录（AI-hallucination）
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.dirname(os.path.dirname(current_dir))  # 回到AI-hallucination目录
+    file_path = os.path.join(base_dir, "src/data/consolidated/ESI前1%学科数量_data.json")
     fix_field_names(file_path)

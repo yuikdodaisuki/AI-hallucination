@@ -173,7 +173,9 @@ def main():
     """
     # 配置文件路径
     # os.path.join() 用于构建跨平台兼容的文件路径
-    base_dir = "/Users/a1/study/爬虫/AI-hallucination"
+    # 获取当前脚本所在目录的上级目录（AI-hallucination）
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.dirname(os.path.dirname(current_dir))  # 回到AI-hallucination目录
     json_file = os.path.join(base_dir, "src/data/subject_evaluation/subject_evaluation_data.json")
     csv_file = os.path.join(base_dir, "ai_evaluation_dataset_long_教育部评估A类学科数量_answers.csv")
     
