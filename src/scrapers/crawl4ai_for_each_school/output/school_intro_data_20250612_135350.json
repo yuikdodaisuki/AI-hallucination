@@ -1,0 +1,404 @@
+{
+  "extraction_info": {
+    "timestamp": "2025-06-12T13:53:50.683418",
+    "source_info": "学校简介数据爬取",
+    "total_schools": 39,
+    "total_undergraduate_majors": 1773,
+    "total_national_first_class_majors": 400,
+    "total_provincial_first_class_majors": 305,
+    "total_national_teaching_awards": 85,
+    "total_provincial_teaching_awards": 337
+  },
+  "schools": [
+    {
+      "school_name": "中山大学",
+      "undergraduate_majors": 129,
+      "national_first_class_majors": 72,
+      "provincial_first_class_majors": 19,
+      "national_teaching_awards": 8,
+      "provincial_teaching_awards": 17,
+      "source_url": "https://www.sysu.edu.cn/xxg/zdjj1.htm",
+      "crawl_timestamp": "2025-06-12T13:42:27.494599"
+    },
+    {
+      "school_name": "华南理工大学",
+      "undergraduate_majors": 0,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.scut.edu.cn/new/9015/list.htm",
+      "crawl_timestamp": "2025-06-12T13:42:43.694702"
+    },
+    {
+      "school_name": "暨南大学",
+      "undergraduate_majors": 108,
+      "national_first_class_majors": 52,
+      "provincial_first_class_majors": 34,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.jnu.edu.cn/bxsj/list.htm",
+      "crawl_timestamp": "2025-06-12T13:43:00.719729"
+    },
+    {
+      "school_name": "华南师范大学",
+      "undergraduate_majors": 97,
+      "national_first_class_majors": 45,
+      "provincial_first_class_majors": 19,
+      "national_teaching_awards": 15,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.scnu.edu.cn/a/20161025/1.html",
+      "crawl_timestamp": "2025-06-12T13:43:16.937822"
+    },
+    {
+      "school_name": "华南农业大学",
+      "undergraduate_majors": 98,
+      "national_first_class_majors": 27,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 6,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.scau.edu.cn/17830/list.htm",
+      "crawl_timestamp": "2025-06-12T13:43:33.435034"
+    },
+    {
+      "school_name": "广州医科大学",
+      "undergraduate_majors": 21,
+      "national_first_class_majors": 17,
+      "provincial_first_class_majors": 4,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gzhmu.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:43:53.141208"
+    },
+    {
+      "school_name": "广州中医药大学",
+      "undergraduate_majors": 23,
+      "national_first_class_majors": 8,
+      "provincial_first_class_majors": 11,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gzucm.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:44:10.125996"
+    },
+    {
+      "school_name": "广东药科大学",
+      "undergraduate_majors": 47,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 21,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 9,
+      "source_url": "https://www.gdpu.edu.cn/xygk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:44:25.619864"
+    },
+    {
+      "school_name": "南方医科大学",
+      "undergraduate_majors": 0,
+      "national_first_class_majors": 23,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 12,
+      "provincial_teaching_awards": 49,
+      "source_url": "https://www.smu.edu.cn/xygk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:44:41.579007"
+    },
+    {
+      "school_name": "广州大学",
+      "undergraduate_majors": 78,
+      "national_first_class_majors": 40,
+      "provincial_first_class_majors": 52,
+      "national_teaching_awards": 5,
+      "provincial_teaching_awards": 52,
+      "source_url": "https://www.gzhu.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:44:57.835228"
+    },
+    {
+      "school_name": "广东工业大学",
+      "undergraduate_majors": 92,
+      "national_first_class_majors": 37,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 6,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gdut.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:45:16.118305"
+    },
+    {
+      "school_name": "广东外语外贸大学",
+      "undergraduate_majors": 74,
+      "national_first_class_majors": 37,
+      "provincial_first_class_majors": 29,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gdufs.edu.cn/About%20GDUFS/General_Information.htm",
+      "crawl_timestamp": "2025-06-12T13:45:32.737920"
+    },
+    {
+      "school_name": "广东财经大学",
+      "undergraduate_majors": 67,
+      "national_first_class_majors": 18,
+      "provincial_first_class_majors": 16,
+      "national_teaching_awards": 1,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gdufe.edu.cn/gcjj/list.htm",
+      "crawl_timestamp": "2025-06-12T13:45:49.305299"
+    },
+    {
+      "school_name": "广州体育学院",
+      "undergraduate_majors": 23,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gzsport.edu.cn/node/42",
+      "crawl_timestamp": "2025-06-12T13:46:04.868513"
+    },
+    {
+      "school_name": "星海音乐学院",
+      "undergraduate_majors": 11,
+      "national_first_class_majors": 5,
+      "provincial_first_class_majors": 5,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.xhcom.edu.cn/xxgk1/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:46:31.370178"
+    },
+    {
+      "school_name": "广东技术师范大学",
+      "undergraduate_majors": 74,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 34,
+      "source_url": "https://www.gpnu.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:46:47.517981"
+    },
+    {
+      "school_name": "广东第二师范学院",
+      "undergraduate_majors": 44,
+      "national_first_class_majors": 2,
+      "provincial_first_class_majors": 5,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 9,
+      "source_url": "https://www.gdei.edu.cn/1334/list.htm",
+      "crawl_timestamp": "2025-06-12T13:47:10.772699"
+    },
+    {
+      "school_name": "仲恺农业工程学院",
+      "undergraduate_majors": 65,
+      "national_first_class_majors": 2,
+      "provincial_first_class_majors": 13,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.zhku.edu.cn/xxgk/xxjs.htm",
+      "crawl_timestamp": "2025-06-12T13:47:31.898203"
+    },
+    {
+      "school_name": "广东警官学院",
+      "undergraduate_majors": 13,
+      "national_first_class_majors": 3,
+      "provincial_first_class_majors": 5,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gdppla.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:47:49.120419"
+    },
+    {
+      "school_name": "广东金融学院",
+      "undergraduate_majors": 55,
+      "national_first_class_majors": 3,
+      "provincial_first_class_majors": 14,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 1,
+      "source_url": "https://www.gduf.edu.cn/xygk/gjjj.htm",
+      "crawl_timestamp": "2025-06-12T13:48:05.969796"
+    },
+    {
+      "school_name": "广州航海学院",
+      "undergraduate_majors": 0,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 5,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gzmtu.edu.cn/xxgk/xxgk.htm",
+      "crawl_timestamp": "2025-06-12T13:48:23.826269"
+    },
+    {
+      "school_name": "广州城市理工学院",
+      "undergraduate_majors": 46,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 6,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 110,
+      "source_url": "https://www.gcu.edu.cn/2023/0308/c725a146388/page.htm",
+      "crawl_timestamp": "2025-06-12T13:48:39.480565"
+    },
+    {
+      "school_name": "广州软件学院",
+      "undergraduate_majors": 32,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 3,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.seig.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:49:10.817713"
+    },
+    {
+      "school_name": "广州南方学院",
+      "undergraduate_majors": 46,
+      "national_first_class_majors": 4,
+      "provincial_first_class_majors": 6,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.nfu.edu.cn/gywm/xxgk.htm",
+      "crawl_timestamp": "2025-06-12T13:49:27.171035"
+    },
+    {
+      "school_name": "广东外语外贸大学南国商学院",
+      "undergraduate_majors": 47,
+      "national_first_class_majors": 2,
+      "provincial_first_class_majors": 4,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gwng.edu.cn/37/list.htm",
+      "crawl_timestamp": "2025-06-12T13:49:42.837632"
+    },
+    {
+      "school_name": "广州华商学院",
+      "undergraduate_majors": 54,
+      "national_first_class_majors": 1,
+      "provincial_first_class_majors": 6,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gdhsc.edu.cn/xygk/xyjj.htm",
+      "crawl_timestamp": "2025-06-12T13:49:59.066375"
+    },
+    {
+      "school_name": "华南农业大学珠江学院",
+      "undergraduate_majors": 43,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 2,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.scauzj.edu.cn/xxgk/xxjj/D700102index_1.htm",
+      "crawl_timestamp": "2025-06-12T13:50:16.101871"
+    },
+    {
+      "school_name": "广州理工学院",
+      "undergraduate_majors": 51,
+      "national_first_class_majors": 1,
+      "provincial_first_class_majors": 3,
+      "national_teaching_awards": 1,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gzist.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:50:33.985237"
+    },
+    {
+      "school_name": "广州华立学院",
+      "undergraduate_majors": 52,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 2,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.hualixy.edu.cn/xxgk/xxjj",
+      "crawl_timestamp": "2025-06-12T13:50:50.790075"
+    },
+    {
+      "school_name": "广州应用科技学院",
+      "undergraduate_majors": 47,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 3,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gzasc.edu.cn/IntroductionToTheSchool/index.html",
+      "crawl_timestamp": "2025-06-12T13:51:08.018871"
+    },
+    {
+      "school_name": "广州商学院",
+      "undergraduate_majors": 0,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 3,
+      "national_teaching_awards": 1,
+      "provincial_teaching_awards": 2,
+      "source_url": "https://www.gcc.edu.cn/xxgk/xxjj/index.htm",
+      "crawl_timestamp": "2025-06-12T13:51:27.716556"
+    },
+    {
+      "school_name": "广州工商学院",
+      "undergraduate_majors": 36,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gzgs.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:51:49.324049"
+    },
+    {
+      "school_name": "广州新华学院",
+      "undergraduate_majors": 60,
+      "national_first_class_majors": 1,
+      "provincial_first_class_majors": 5,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.xhsysu.edu.cn/xxgk/xxjj.htm",
+      "crawl_timestamp": "2025-06-12T13:52:05.689116"
+    },
+    {
+      "school_name": "广东白云学院",
+      "undergraduate_majors": 61,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 6,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 7,
+      "source_url": "https://www.baiyunu.edu.cn/html/cn/gyby/",
+      "crawl_timestamp": "2025-06-12T13:52:22.549324"
+    },
+    {
+      "school_name": "广东培正学院",
+      "undergraduate_majors": 46,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 3,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.peizheng.edu.cn/xxgk1/xxjs/index.htm",
+      "crawl_timestamp": "2025-06-12T13:52:39.230157"
+    },
+    {
+      "school_name": "广东轻工职业技术大学",
+      "undergraduate_majors": 6,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 14,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.gdqy.edu.cn/info/1059/2741.htm",
+      "crawl_timestamp": "2025-06-12T13:52:56.306054"
+    },
+    {
+      "school_name": "广州科技职业技术大学",
+      "undergraduate_majors": 27,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 1,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 4,
+      "source_url": "https://www.gkd.edu.cn/contents/1457/113.html",
+      "crawl_timestamp": "2025-06-12T13:53:14.029923"
+    },
+    {
+      "school_name": "广州番禺职业技术学院",
+      "undergraduate_majors": 0,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 16,
+      "provincial_teaching_awards": 43,
+      "source_url": "https://www.gzpyp.edu.cn/xxgk/xxjj",
+      "crawl_timestamp": "2025-06-12T13:53:32.715715"
+    },
+    {
+      "school_name": "The Hong Kong University of Science and Technology (Guangzhou)",
+      "undergraduate_majors": 0,
+      "national_first_class_majors": 0,
+      "provincial_first_class_majors": 0,
+      "national_teaching_awards": 0,
+      "provincial_teaching_awards": 0,
+      "source_url": "https://www.hkust-gz.edu.cn/about/",
+      "crawl_timestamp": "2025-06-12T13:53:49.874243"
+    }
+  ]
+}

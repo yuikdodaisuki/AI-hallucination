@@ -10,7 +10,90 @@ if project_root not in sys.path:
 from src.AIquest.metric_processor import MetricDataProcessor
 from src.AIquest.utils.directory_manager import DirectoryManager
 # 🔥 导入别名配置 🔥
-from src.AIquest.config import METRIC_ALIASES, resolve_metric_name, get_metric_suggestions
+from src.AIquest.config import (
+    METRIC_ALIASES, resolve_metric_name, get_metric_suggestions,
+    is_school_extraction_enabled, enable_school_extraction
+)
+
+# 🔥 新增：数据文件管理命令 🔥
+def show_data_files_status():
+    """显示数据文件状态"""
+    try:
+        processor = MetricDataProcessor()
+        processor.show_data_files_status()
+    except Exception as e:
+        print(f"❌ 显示数据文件状态时发生错误: {e}")
+
+def switch_processing_mode():
+    """切换处理模式"""
+    try:
+        current_mode = is_school_extraction_enabled()
+        new_mode = not current_mode
+        
+        old_mode_name = "智能截取模式" if current_mode else "传统模式"
+        new_mode_name = "智能截取模式" if new_mode else "传统模式"
+        
+        print(f"🔄 处理模式切换:")
+        print(f"  从: {old_mode_name}")
+        print(f"  到: {new_mode_name}")
+        
+        enable_school_extraction(new_mode)
+        print(f"✅ 模式切换完成")
+        print(f"💡 下次数据处理将使用新模式")
+        
+        return True
+    except Exception as e:
+        print(f"❌ 切换处理模式时发生错误: {e}")
+        return False
+
+def show_current_mode():
+    """显示当前处理模式"""
+    try:
+        current_mode = is_school_extraction_enabled()
+        mode_name = "智能截取模式" if current_mode else "传统模式"
+        print(f"🔧 当前附件处理模式: {mode_name}")
+        
+        # 显示模式说明
+        if current_mode:
+            print("📍 智能截取模式特点:")
+            print("  • 基于学校名称智能截取附件内容")
+            print("  • 只提取与目标学校相关的片段")
+            print("  • 数据存储在 consolidated_intelligent/ 目录")
+        else:
+            print("📄 传统模式特点:")
+            print("  • 提取附件的完整内容")
+            print("  • 保留所有原始信息")
+            print("  • 数据存储在 consolidated/ 目录")
+        
+        return True
+    except Exception as e:
+        print(f"❌ 显示当前模式时发生错误: {e}")
+        return False
+
+def regenerate_data_files():
+    """重新生成所有数据文件"""
+    try:
+        print("🔄 重新生成所有数据文件")
+        print("⚠️  这将删除现有数据文件并重新创建")
+        
+        # 询问用户确认
+        confirm = input("是否继续? (y/N): ").lower().strip()
+        if confirm not in ['y', 'yes']:
+            print("❌ 操作已取消")
+            return False
+        
+        processor = MetricDataProcessor()
+        success = processor.regenerate_all_data_files()
+        
+        if success:
+            print("✅ 所有数据文件重新生成完成")
+        else:
+            print("⚠️  部分数据文件重新生成失败")
+        
+        return success
+    except Exception as e:
+        print(f"❌ 重新生成数据文件时发生错误: {e}")
+        return False
 
 
 def get_project_paths():
@@ -246,14 +329,27 @@ def print_usage():
     print("   python -m src.AIquest.main migrate            # 迁移现有数据")
     print("   python -m src.AIquest.main compat             # 兼容模式（使用原quest.py）")
     print("   python -m src.AIquest.main <指标名称或别名>    # 处理特定指标")
+    # 🔥 新增：处理模式说明 🔥
+    print("\n🔧 处理模式说明:")
+    print("   📍 智能截取模式: 基于学校名称智能提取附件相关内容")
+    print("      • 只截取与目标学校相关的片段")
+    print("      • 数据存储在 consolidated_intelligent/ 目录")
+    print("      • 适合大文件和多学校混合数据")
+    
+    print("   📄 传统模式: 提取附件完整内容")
+    print("      • 保留附件的所有原始信息")
+    print("      • 数据存储在 consolidated/ 目录")
+    print("      • 适合单一学校或小文件数据")
     print("\n🏗️  目录管理:")
     print("   init    - 创建所有必需的数据目录")
     print("   check   - 检查目录状态和文件数量")
     print("   migrate - 迁移现有数据到新目录结构")
     print("   compat  - 使用原有quest.py的处理逻辑")
-    print("\n📊 支持的9个指标:")
+    print("\n📊 支持的16个指标:")
     print("   🔬 学科指标: ESI前1%、ESI前1‰、双一流、教育部评估A类、软科前10%")
-    print("   🎓 专业指标: 专业总数、专业认证、国家级一流、省级一流")
+    print("   🎓 专业指标: 专业总数、专业认证、国家级一流专业、省级一流专业")
+    print("   🏆 教学指标: 国家级教学成果奖、省级教学成果奖、青年教师竞赛")
+    print("   📚 课程指标: 国家级一流课程、省级一流课程、国家级智慧平台、省级智慧平台")
     print("\n🔗 使用别名简化输入:")
     print("   python -m src.AIquest.main 1                  # ESI前1%学科数量")
     print("   python -m src.AIquest.main shuangyiliu        # 双一流学科")
@@ -261,11 +357,42 @@ def print_usage():
     print("   python -m src.AIquest.main esi1%              # ESI前1%")
     print("   python -m src.AIquest.main ruanke             # 软科前10%")
     print("   python -m src.AIquest.main majors_total       # 专业总数")
+    print("   python -m src.AIquest.main shuangyiliu        # 双一流学科")
+    print("   python -m src.AIquest.main 10                 # 国家级教学成果奖")
+    print("   python -m src.AIquest.main national_award     # 国家级教学成果奖")
+    print("   python -m src.AIquest.main 12                 # 青年教师竞赛")
+    print("   python -m src.AIquest.main youth_competition  # 青年教师竞赛")
+    print("   python -m src.AIquest.main 13                 # 国家级一流课程")
+    print("   python -m src.AIquest.main national_course    # 国家级一流课程")
     print("\n💡 处理带引号的指标名称:")
     print("   方法1: python -m src.AIquest.main shuangyiliu      # 使用别名（推荐）")
     print("   方法2: python -m src.AIquest.main '国家\"双一流\"学科数量'  # 单引号包围")
     print("   方法3: python -m src.AIquest.main \"国家\\\"双一流\\\"学科数量\"  # 转义字符")
 
+def reprocess_data_with_attachments():
+    """重新处理数据，确保包含附件内容"""
+    print("🔄 重新处理数据以包含附件内容...")
+    
+    try:
+        from src.AIquest.utils.data_reader import DataReader
+        from src.AIquest.config import METRIC_DATA_MAPPING
+        
+        # 初始化组件
+        data_reader = DataReader()
+        
+        # 重新整合所有已配置的指标数据
+        for metric_name in METRIC_DATA_MAPPING.keys():
+            print(f"🔄 重新整合指标: {metric_name}")
+            consolidated_file = data_reader.consolidate_data_for_metric(metric_name)
+            if consolidated_file:
+                print(f"  ✅ 成功重新整合: {consolidated_file}")
+            else:
+                print(f"  ❌ 重新整合失败: {metric_name}")
+        
+        print("\n✅ 数据重新处理完成")
+        
+    except Exception as e:
+        print(f"❌ 重新处理数据时发生错误: {e}")
 
 def main():
     """主函数"""
@@ -309,9 +436,22 @@ def main():
         elif command == 'validate':
             validate_system()
             return 0
+        elif command == 'reprocess':  # 🔥 新增重新处理数据命令 🔥
+            reprocess_data_with_attachments()
+            return 0
         elif command in ['help', '-h', '--help']:
             print_usage()
             return 0
+        # 🔥 新增：数据文件管理命令 🔥
+        elif command == 'files':
+            show_data_files_status()
+            return 0
+        elif command == 'mode':
+            return 0 if show_current_mode() else 1
+        elif command == 'switch':
+            return 0 if switch_processing_mode() else 1
+        elif command == 'regen':
+            return 0 if regenerate_data_files() else 1
         else:
             # 🔥 处理特定指标，支持别名解析 🔥
             if not os.path.exists(paths['questions_csv']):

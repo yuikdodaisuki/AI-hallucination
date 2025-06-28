@@ -1,0 +1,25 @@
+{
+  "total_schools": 1,
+  "total_courses": 92,
+  "average_courses_per_school": 92.0,
+  "max_courses_school": {
+    "name": "暨南大学",
+    "course_count": 92
+  },
+  "min_courses_school": {
+    "name": "暨南大学",
+    "course_count": 92
+  },
+  "top_5_schools": [
+    {
+      "name": "暨南大学",
+      "course_count": 92
+    }
+  ],
+  "extraction_method": "Crawl4ai自动分块 + LLM智能提取",
+  "chunk_size": "6000 tokens",
+  "overlap_rate": "15%",
+  "total_extraction_time": "实际运行时间",
+  "failed_schools_list": [],
+  "success_rate": "1/1 (100.0%)"
+}

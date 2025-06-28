@@ -1,0 +1,584 @@
+{
+  "metric": "省级一流本科课程",
+  "data_sources": [
+    "provincial_courses"
+  ],
+  "successful_sources": [
+    "provincial_courses"
+  ],
+  "total_items": 2,
+  "results": [
+    {
+      "extraction_info": {
+        "timestamp": "2025-06-10T20:20:01.187676",
+        "source_url": "https://app.gaokaozhitongche.com/news/h/xO3Ev9r2",
+        "total_schools": 67,
+        "total_courses_all_batches": 2693
+      },
+      "schools": [
+        {
+          "school": "暨南大学",
+          "first": 91,
+          "second": 49,
+          "third": 47,
+          "total": 187
+        },
+        {
+          "school": "华南理工大学",
+          "first": 76,
+          "second": 39,
+          "third": 43,
+          "total": 158
+        },
+        {
+          "school": "华南师范大学",
+          "first": 66,
+          "second": 41,
+          "third": 44,
+          "total": 151
+        },
+        {
+          "school": "南方医科大学",
+          "first": 51,
+          "second": 41,
+          "third": 45,
+          "total": 137
+        },
+        {
+          "school": "华南农业大学",
+          "first": 60,
+          "second": 35,
+          "third": 38,
+          "total": 133
+        },
+        {
+          "school": "中山大学",
+          "first": 63,
+          "second": 33,
+          "third": 33,
+          "total": 129
+        },
+        {
+          "school": "广州大学",
+          "first": 44,
+          "second": 39,
+          "third": 41,
+          "total": 124
+        },
+        {
+          "school": "广东工业大学",
+          "first": 39,
+          "second": 39,
+          "third": 32,
+          "total": 110
+        },
+        {
+          "school": "深圳大学",
+          "first": 44,
+          "second": 30,
+          "third": 29,
+          "total": 103
+        },
+        {
+          "school": "广东外语外贸大学",
+          "first": 37,
+          "second": 33,
+          "third": 32,
+          "total": 102
+        },
+        {
+          "school": "广州中医药大学",
+          "first": 26,
+          "second": 31,
+          "third": 30,
+          "total": 87
+        },
+        {
+          "school": "广州医科大学",
+          "first": 28,
+          "second": 31,
+          "third": 25,
+          "total": 84
+        },
+        {
+          "school": "广东药科大学",
+          "first": 19,
+          "second": 21,
+          "third": 24,
+          "total": 64
+        },
+        {
+          "school": "汕头大学",
+          "first": 22,
+          "second": 18,
+          "third": 23,
+          "total": 63
+        },
+        {
+          "school": "广东医科大学",
+          "first": 19,
+          "second": 23,
+          "third": 20,
+          "total": 62
+        },
+        {
+          "school": "广东海洋大学",
+          "first": 16,
+          "second": 18,
+          "third": 24,
+          "total": 58
+        },
+        {
+          "school": "广东财经大学",
+          "first": 18,
+          "second": 17,
+          "third": 22,
+          "total": 57
+        },
+        {
+          "school": "广东技术师范大学",
+          "first": 17,
+          "second": 16,
+          "third": 20,
+          "total": 53
+        },
+        {
+          "school": "惠州学院",
+          "first": 12,
+          "second": 15,
+          "third": 19,
+          "total": 46
+        },
+        {
+          "school": "东莞理工学院",
+          "first": 12,
+          "second": 13,
+          "third": 12,
+          "total": 37
+        },
+        {
+          "school": "电子科技大学中山学院",
+          "first": 7,
+          "second": 13,
+          "third": 14,
+          "total": 34
+        },
+        {
+          "school": "佛山科学技术学院",
+          "first": 8,
+          "second": 11,
+          "third": 14,
+          "total": 33
+        },
+        {
+          "school": "韶关学院",
+          "first": 10,
+          "second": 10,
+          "third": 13,
+          "total": 33
+        },
+        {
+          "school": "岭南师范学院",
+          "first": 11,
+          "second": 10,
+          "third": 11,
+          "total": 32
+        },
+        {
+          "school": "五邑大学",
+          "first": 7,
+          "second": 11,
+          "third": 14,
+          "total": 32
+        },
+        {
+          "school": "广东金融学院",
+          "first": 11,
+          "second": 9,
+          "third": 10,
+          "total": 30
+        },
+        {
+          "school": "嘉应学院",
+          "first": 6,
+          "second": 11,
+          "third": 12,
+          "total": 29
+        },
+        {
+          "school": "韩山师范学院",
+          "first": 3,
+          "second": 11,
+          "third": 15,
+          "total": 29
+        },
+        {
+          "school": "广东石油化工学院",
+          "first": 7,
+          "second": 8,
+          "third": 12,
+          "total": 27
+        },
+        {
+          "school": "仲恺农业工程学院",
+          "first": 4,
+          "second": 8,
+          "third": 14,
+          "total": 26
+        },
+        {
+          "school": "广州体育学院",
+          "first": 7,
+          "second": 10,
+          "third": 8,
+          "total": 25
+        },
+        {
+          "school": "广东警官学院",
+          "first": 7,
+          "second": 7,
+          "third": 10,
+          "total": 24
+        },
+        {
+          "school": "广州美术学院",
+          "first": 7,
+          "second": 7,
+          "third": 10,
+          "total": 24
+        },
+        {
+          "school": "广州新华学院",
+          "first": 6,
+          "second": 8,
+          "third": 9,
+          "total": 23
+        },
+        {
+          "school": "广州城市理工学院",
+          "first": 1,
+          "second": 9,
+          "third": 12,
+          "total": 22
+        },
+        {
+          "school": "广州工商学院",
+          "first": 0,
+          "second": 9,
+          "third": 12,
+          "total": 21
+        },
+        {
+          "school": "广州南方学院",
+          "first": 3,
+          "second": 8,
+          "third": 10,
+          "total": 21
+        },
+        {
+          "school": "广东白云学院",
+          "first": 1,
+          "second": 8,
+          "third": 12,
+          "total": 21
+        },
+        {
+          "school": "广东科技学院",
+          "first": 2,
+          "second": 7,
+          "third": 12,
+          "total": 21
+        },
+        {
+          "school": "珠海科技学院",
+          "first": 4,
+          "second": 7,
+          "third": 9,
+          "total": 20
+        },
+        {
+          "school": "广东东软学院",
+          "first": 4,
+          "second": 7,
+          "third": 9,
+          "total": 20
+        },
+        {
+          "school": "南方科技大学",
+          "first": 8,
+          "second": 4,
+          "third": 6,
+          "total": 18
+        },
+        {
+          "school": "广东第二师范学院",
+          "first": 4,
+          "second": 6,
+          "third": 7,
+          "total": 17
+        },
+        {
+          "school": "东莞城市学院",
+          "first": 2,
+          "second": 5,
+          "third": 9,
+          "total": 16
+        },
+        {
+          "school": "北京理工大学珠海学院",
+          "first": 3,
+          "second": 3,
+          "third": 9,
+          "total": 15
+        },
+        {
+          "school": "广州华商学院",
+          "first": 0,
+          "second": 6,
+          "third": 8,
+          "total": 14
+        },
+        {
+          "school": "广州商学院",
+          "first": 1,
+          "second": 5,
+          "third": 8,
+          "total": 14
+        },
+        {
+          "school": "肇庆学院",
+          "first": 1,
+          "second": 6,
+          "third": 5,
+          "total": 12
+        },
+        {
+          "school": "星海音乐学院",
+          "first": 4,
+          "second": 0,
+          "third": 5,
+          "total": 9
+        },
+        {
+          "school": "哈尔滨工业大学（深圳）",
+          "first": 3,
+          "second": 3,
+          "third": 3,
+          "total": 9
+        },
+        {
+          "school": "广州航海学院",
+          "first": 2,
+          "second": 2,
+          "third": 5,
+          "total": 9
+        },
+        {
+          "school": "广州理工学院",
+          "first": 0,
+          "second": 3,
+          "third": 5,
+          "total": 8
+        },
+        {
+          "school": "广东外语外贸大学南国商学院",
+          "first": 3,
+          "second": 1,
+          "third": 4,
+          "total": 8
+        },
+        {
+          "school": "北京师范大学-香港浸会大学联合国际学院",
+          "first": 0,
+          "second": 3,
+          "third": 4,
+          "total": 7
+        },
+        {
+          "school": "广东培正学院",
+          "first": 1,
+          "second": 1,
+          "third": 4,
+          "total": 6
+        },
+        {
+          "school": "广州软件学院",
+          "first": 0,
+          "second": 2,
+          "third": 4,
+          "total": 6
+        },
+        {
+          "school": "湛江科技学院",
+          "first": 0,
+          "second": 2,
+          "third": 3,
+          "total": 5
+        },
+        {
+          "school": "广东理工学院",
+          "first": 0,
+          "second": 3,
+          "third": 2,
+          "total": 5
+        },
+        {
+          "school": "深圳技术大学",
+          "first": 0,
+          "second": 0,
+          "third": 5,
+          "total": 5
+        },
+        {
+          "school": "广州华立学院",
+          "first": 1,
+          "second": 1,
+          "third": 2,
+          "total": 4
+        },
+        {
+          "school": "广东开放大学",
+          "first": 0,
+          "second": 1,
+          "third": 2,
+          "total": 3
+        },
+        {
+          "school": "华南农业大学珠江学院",
+          "first": 0,
+          "second": 1,
+          "third": 2,
+          "total": 3
+        },
+        {
+          "school": "香港中文大学（深圳）",
+          "first": 0,
+          "second": 1,
+          "third": 2,
+          "total": 3
+        },
+        {
+          "school": "北京师范大学珠海校区",
+          "first": 0,
+          "second": 1,
+          "third": 1,
+          "total": 2
+        },
+        {
+          "school": "深圳北理莫斯科大学",
+          "first": 0,
+          "second": 1,
+          "third": 0,
+          "total": 1
+        },
+        {
+          "school": "广州应用科技学院",
+          "first": 0,
+          "second": 1,
+          "third": 0,
+          "total": 1
+        },
+        {
+          "school": "广东以色列理工学院",
+          "first": 0,
+          "second": 1,
+          "third": 0,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "overview": {
+        "total_schools": 67,
+        "total_first_batch": 909,
+        "total_second_batch": 834,
+        "total_third_batch": 950,
+        "total_all_batches": 2693,
+        "average_per_school": 40.19
+      },
+      "top_10_schools": [
+        {
+          "rank": 1,
+          "school": "暨南大学",
+          "first": 91,
+          "second": 49,
+          "third": 47,
+          "total": 187
+        },
+        {
+          "rank": 2,
+          "school": "华南理工大学",
+          "first": 76,
+          "second": 39,
+          "third": 43,
+          "total": 158
+        },
+        {
+          "rank": 3,
+          "school": "华南师范大学",
+          "first": 66,
+          "second": 41,
+          "third": 44,
+          "total": 151
+        },
+        {
+          "rank": 4,
+          "school": "南方医科大学",
+          "first": 51,
+          "second": 41,
+          "third": 45,
+          "total": 137
+        },
+        {
+          "rank": 5,
+          "school": "华南农业大学",
+          "first": 60,
+          "second": 35,
+          "third": 38,
+          "total": 133
+        },
+        {
+          "rank": 6,
+          "school": "中山大学",
+          "first": 63,
+          "second": 33,
+          "third": 33,
+          "total": 129
+        },
+        {
+          "rank": 7,
+          "school": "广州大学",
+          "first": 44,
+          "second": 39,
+          "third": 41,
+          "total": 124
+        },
+        {
+          "rank": 8,
+          "school": "广东工业大学",
+          "first": 39,
+          "second": 39,
+          "third": 32,
+          "total": 110
+        },
+        {
+          "rank": 9,
+          "school": "深圳大学",
+          "first": 44,
+          "second": 30,
+          "third": 29,
+          "total": 103
+        },
+        {
+          "rank": 10,
+          "school": "广东外语外贸大学",
+          "first": 37,
+          "second": 33,
+          "third": 32,
+          "total": 102
+        }
+      ]
+    }
+  ],
+  "status": "success"
+}

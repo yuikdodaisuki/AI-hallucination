@@ -1,0 +1,92 @@
+{
+  "overview": {
+    "total_schools": 67,
+    "total_first_batch": 909,
+    "total_second_batch": 834,
+    "total_third_batch": 950,
+    "total_all_batches": 2693,
+    "average_per_school": 40.19
+  },
+  "top_10_schools": [
+    {
+      "rank": 1,
+      "school": "暨南大学",
+      "first": 91,
+      "second": 49,
+      "third": 47,
+      "total": 187
+    },
+    {
+      "rank": 2,
+      "school": "华南理工大学",
+      "first": 76,
+      "second": 39,
+      "third": 43,
+      "total": 158
+    },
+    {
+      "rank": 3,
+      "school": "华南师范大学",
+      "first": 66,
+      "second": 41,
+      "third": 44,
+      "total": 151
+    },
+    {
+      "rank": 4,
+      "school": "南方医科大学",
+      "first": 51,
+      "second": 41,
+      "third": 45,
+      "total": 137
+    },
+    {
+      "rank": 5,
+      "school": "华南农业大学",
+      "first": 60,
+      "second": 35,
+      "third": 38,
+      "total": 133
+    },
+    {
+      "rank": 6,
+      "school": "中山大学",
+      "first": 63,
+      "second": 33,
+      "third": 33,
+      "total": 129
+    },
+    {
+      "rank": 7,
+      "school": "广州大学",
+      "first": 44,
+      "second": 39,
+      "third": 41,
+      "total": 124
+    },
+    {
+      "rank": 8,
+      "school": "广东工业大学",
+      "first": 39,
+      "second": 39,
+      "third": 32,
+      "total": 110
+    },
+    {
+      "rank": 9,
+      "school": "深圳大学",
+      "first": 44,
+      "second": 30,
+      "third": 29,
+      "total": 103
+    },
+    {
+      "rank": 10,
+      "school": "广东外语外贸大学",
+      "first": 37,
+      "second": 33,
+      "third": 32,
+      "total": 102
+    }
+  ]
+}

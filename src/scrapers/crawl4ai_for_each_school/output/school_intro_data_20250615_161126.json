@@ -1,0 +1,20 @@
+{
+  "extraction_info": {
+    "timestamp": "2025-06-15T16:11:26.609626",
+    "source_info": "学校简介数据爬取",
+    "total_schools": 1,
+    "total_undergraduate_majors": 65,
+    "total_national_first_class_majors": 2,
+    "total_provincial_first_class_majors": 13
+  },
+  "schools": [
+    {
+      "school_name": "仲恺农业工程学院",
+      "undergraduate_majors": 65,
+      "national_first_class_majors": 2,
+      "provincial_first_class_majors": 13,
+      "source_url": "https://www.zhku.edu.cn/xxgk/xxjs.htm",
+      "crawl_timestamp": "2025-06-15T16:11:26.257028"
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+[
+  {
+    "school": "暨南大学",
+    "total_courses": 92,
+    "courses": [
+      {
+        "school": "暨南大学",
+        "course_name": "Pediatric Tuina and Children’s diet therapy",
+        "teacher": "谢慧珺"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "医学汉语",
+        "teacher": "徐富平"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Prevention, Control and Treatment of Chronic Diseases",
+        "teacher": "聂红"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "New Media and Cultural Studies",
+        "teacher": "刘涛"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Personality and Mental Disorders—Be a therapist of your own",
+        "teacher": "Yanbin JIA"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Management Consulting",
+        "teacher": "CongdongLI"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Prevention,control and treatment of chronic diseases",
+        "teacher": "Hong NIE"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Introduction to World's Famous Spirits",
+        "teacher": "陈龙"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Management Consulting",
+        "teacher": "李从东"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Good Oils for Better Life: Introduction to Science of Edible Oils and Essential Oils",
+        "teacher": "汪勇"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "国际商务（2025春）",
+        "teacher": "林学军"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "药事管理与法规",
+        "teacher": "宿凌"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "跨境电商理论与实践",
+        "teacher": "王玉"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "英语语法与写作",
+        "teacher": "朱湘军"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "中医与诊断—学做自己的医生",
+        "teacher": "孙立"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "英语词汇与文化",
+        "teacher": "朱湘军"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "数字营销：走进智慧的品牌",
+        "teacher": "谷虹"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "中医养生与亚健康防治",
+        "teacher": "孙升云"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "创业基础",
+        "teacher": "张耀辉"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "民法与生活",
+        "teacher": "钟瑞栋"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "中医基础理论",
+        "teacher": "陈利国"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "多元统计分析及R语言建模",
+        "teacher": "王斌会"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "新媒体文化十二讲",
+        "teacher": "刘涛"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "生活中的货币时间价值",
+        "teacher": "程静"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "实用针灸学——经络养生与康复",
+        "teacher": "张毅敏"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "《红楼梦》的空间艺术",
+        "teacher": "张世君"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "行政职业能力提升",
+        "teacher": "李伟权"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "智圆行方的世界——中国传统文化概论",
+        "teacher": "史怀刚"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "新时代中国特色社会主义理论与实践",
+        "teacher": "程京武"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "人格与精神障碍——学做自己的心理医生",
+        "teacher": "贾艳滨"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "营商的法律智慧：商法",
+        "teacher": "朱义坤"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "国际私法",
+        "teacher": "戴霞"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "管理学原理",
+        "teacher": "吴菁"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "走近马克思",
+        "teacher": "田明"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "理性色彩 智慧人生",
+        "teacher": "曾振伟"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "人力资源管理",
+        "teacher": "叶茂林"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "管理咨询",
+        "teacher": "李从东"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "高级财务会计",
+        "teacher": "谭小平"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "细胞生物学：细胞社会的奥秘",
+        "teacher": "黄峙"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "生物医药实验室安全知识",
+        "teacher": "于沛"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "计算机辅助药物设计",
+        "teacher": "孙平华"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "运输包装",
+        "teacher": "王志伟"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "英美概况——纵览·博闻",
+        "teacher": "陈穗珊"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "融合新闻：通往未来新闻之路",
+        "teacher": "刘涛"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "日语—自游自在日本行",
+        "teacher": "陈凤川"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "国际名酒知识与品鉴",
+        "teacher": "陈龙"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "颈肩腰腿痛中医防治",
+        "teacher": "唐树杰"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "中医与辨证",
+        "teacher": "薛飞飞"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "著作权法",
+        "teacher": "赵克祥"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "中国税法：案例·原理·方法",
+        "teacher": "方赛迎"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "基础写作Ⅰ",
+        "teacher": "李丹丹"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "女性中医保健",
+        "teacher": "秦佳佳"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "中药药理学-学做自己的调理师",
+        "teacher": "聂红"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "华文趣味教学法",
+        "teacher": "蔡丽"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "新闻传播史",
+        "teacher": "赵建国"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "自然保护与生态安全：拯救地球家园",
+        "teacher": "黄柏炎"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "数学建模",
+        "teacher": "张元标"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "基础笔译：汉英翻译",
+        "teacher": "朱湘军"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "数据可视化—基于Python的应用",
+        "teacher": "王斌会"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "小儿推拿家庭保健与饮食调护",
+        "teacher": "谢慧珺"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "资讯科技",
+        "teacher": "刘小丽"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "广州话教学（粤语入门）",
+        "teacher": "侯兴泉"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "基础日语",
+        "teacher": "欧阳丹"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "组织行为学（全英）",
+        "teacher": "苏晓艳"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "法律人看婚姻家事",
+        "teacher": "宋耀红"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "文科物理学——生活中的物理",
+        "teacher": "张伟"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "葡萄牙语语言文化赏析",
+        "teacher": "叶农"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "实用中医儿科学",
+        "teacher": "周永红"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "基础笔译",
+        "teacher": "朱湘军"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "国际商务文化—一门关于沟通的学问",
+        "teacher": "罗靖"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "美好生活“油”此而来：油科学概论",
+        "teacher": "汪勇"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "商法学",
+        "teacher": "朱义坤"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "基础笔译：英汉翻译",
+        "teacher": "朱湘军"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "药物化学",
+        "teacher": "孙平华"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "医学影像检查技术学",
+        "teacher": "张水兴"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "哲思与诗意——禅诗鉴赏与创作",
+        "teacher": "何志军"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "国际商务",
+        "teacher": "林学军"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "动物细胞工程",
+        "teacher": "邓宁"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "论语中的“礼”与西方礼仪",
+        "teacher": "王方"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "生活中的理财原理",
+        "teacher": "陶晓慧"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "生物化学",
+        "teacher": "宇丽"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "市场营销学",
+        "teacher": "杨德锋"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "分子生物学",
+        "teacher": "邹奕"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "材料力学",
+        "teacher": "宁志华"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Basic Japanese（基础日语）",
+        "teacher": "欧阳丹"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "A Guide to English-speaking Countries",
+        "teacher": "陈穗珊"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "药学实践",
+        "teacher": "张建萍"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Diagnostics in Chinese Medicine",
+        "teacher": "孙立"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Computer-Aided Drug Design",
+        "teacher": "孙平华"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "病理生理学",
+        "teacher": "吕秀秀"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Science-based Food Safety Supervision",
+        "teacher": "唐书泽"
+      },
+      {
+        "school": "暨南大学",
+        "course_name": "Macroeconomics",
+        "teacher": "刘羽帆"
+      }
+    ]
+  }
+]

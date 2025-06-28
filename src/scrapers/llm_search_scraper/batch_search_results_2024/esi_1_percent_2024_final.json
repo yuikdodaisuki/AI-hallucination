@@ -1,0 +1,694 @@
+{
+  "metric": "esi_1_percent",
+  "target_year": 2024,
+  "search_completed_at": "2025-06-05T15:37:28.030330",
+  "total_universities": 40,
+  "successful_searches": 35,
+  "failed_searches": 5,
+  "success_rate": "87.5%",
+  "data_sources_summary": [
+    "ESI数据库",
+    "教育部官网",
+    "学校官网"
+  ],
+  "university_data": {
+    "中山大学": {
+      "data_value": "2024",
+      "data_sources": [
+        "ESI数据库"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://news.csu.edu.cn/info/1002/161456.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "http://mp.weixin.qq.com/s?__biz=Mzk0MjQwMjA3Ng==&mid=2247490068&idx=1&sn=391564210eab43d9ab48e364ee6e348d",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.sohu.com/a/750025415_121124347",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://news.southcn.com/node_54a44f01a2/3b76aa9a50.shtml",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是中山大学截止到2024年的ESI前1%学科数量和具体学科名称列表：\n\n### ESI前1%学科数量：\n- **21个学科**保持全球排名前1%。\n\n### 具体学科名称列表：\n1. 临床医学\n2. 药理学与毒物学\n3. 化学\n4. 材料科学\n5. 工程科学\n6. 一般社会科学\n7. 免疫学\n8. 分子生物与遗传学\n9. 微生物学\n10. 精神病学/心理学\n11. 生物与生化\n12. 环境/生态学\n13. 经济与商学\n14. 神经科学与行为\n15. 物理学\n16. 植物与动物科学\n17. 地球科学\n18. 数学\n19. 计算机科学\n20. 农业科学\n21. 多学科\n\n### 数据来源和更新时间：\n- 数据来源：科睿唯安ESI数据库\n- 更新时间：2024年12月\n\n具体来源网址如下：\n1. [中山大学新闻网](https://news.csu.edu.cn/info/1002/161456.htm)：提供了ESI前万分之一学科数和前百分之一学科数。\n2. [微信公众平台](http://mp.weixin.qq.com/s?__biz=Mzk0MjQwMjA3Ng==&mid=2247490068&idx=1&sn=391564210eab43d9ab48e364ee6e348d)：提供了ESI前1%学科数量和部分学科名称。\n3. [搜狐新闻](https://www.sohu.com/a/750025415_121124347)：提供了ESI前1%学科数量和部分学科名称。\n4. [南方网](https://news.southcn.com/node_54a44f01a2/3b76aa9a50.shtml)：提供了ESI前1%学科数量和部分学科名称。\n\n以上信息均截止到2024年12月，为您提供了中山大学ESI前1%学科的最新数据。"
+    },
+    "暨南大学": {
+      "data_value": "1",
+      "data_sources": [
+        "ESI数据库"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.jnu.edu.cn/bxsj/main.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://libimg.jnu.edu.cn/ContentDelivery/20240112/2024%E5%B9%B41%E6%9C%88%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6ESI%E5%BF%AB%E6%8A%A5_C165A85629A9EC0256CB6523E825CAE1.pdf",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.sciencenet.cn/",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.sohu.com/a/366381560_656818",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.weibo.com/ttarticle/p/show?id=2309405165844564148256",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.163.com/dy/article/IO79SD8A0536N8D8.html",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是暨南大学ESI前1%学科数量和具体学科名称列表的信息：\n\n### 数据来源和更新时间：\n- 数据来源：[暨南大学官网](https://www.jnu.edu.cn/bxsj/main.htm)、[科睿唯安ESI数据库](https://libimg.jnu.edu.cn/ContentDelivery/20240112/2024%E5%B9%B41%E6%9C%88%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6ESI%E5%BF%AB%E6%8A%A5_C165A85629A9EC0256CB6523E825CAE1.pdf)、[科学人才网](https://www.sciencenet.cn/)、[搜狐新闻](https://www.sohu.com/a/366381560_656818)、[微博](https://www.weibo.com/ttarticle/p/show?id=2309405165844564148256)、[网易新闻](https://www.163.com/dy/article/IO79SD8A0536N8D8.html)\n- 更新时间：2024年1月、2025年5月\n\n### 暨南大学ESI前1%学科数量：\n- 根据2024年1月的数据，暨南大学共有19个学科进入ESI全球前1%。\n\n### 具体学科名称列表：\n1. **药理学与毒理学**\n2. **材料科学**\n3. **临床医学**\n4. **环境科学/生态学**\n5. **工程学**\n6. **农业科学**\n7. **生物学与生物化学**\n8. **社会科学总论**\n9. **分子生物学与遗传学**\n10. **神经科学与行为学**\n11. **植物学与动物学**\n12. **地球科学**\n13. **免疫学**\n14. **微生物学**\n15. **物理学**\n16. **精神病学与心理学**\n17. **化学**\n18. **计算机科学**\n19. **数学**\n20. **经济与商业**\n\n请注意，部分学科名称可能存在重叠或分类上的细微差别，具体以官方数据为准。以上信息综合了多个来源，以确保数据的准确性和全面性。"
+    },
+    "华南理工大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://news.scut.edu.cn/2025/0509/c41a57400/page.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://gd.chinadaily.com.cn/a/202505/11/WS6820a176a310205377032907.html",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://news.qq.com/rain/a/20250511A06PRS00",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.stdaily.com/web/gdxw/2024-09/15/content_230413.html",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站提供的最新数据，以下是华南理工大学ESI前1%学科的数量和具体学科名称列表：\n\n### 数据来源和更新时间：\n- **来源网址**：[华南理工大学官网](https://news.scut.edu.cn/2025/0509/c41a57400/page.htm)、[中国日报网](https://gd.chinadaily.com.cn/a/202505/11/WS6820a176a310205377032907.html)、[腾讯新闻](https://news.qq.com/rain/a/20250511A06PRS00)、[科学网](https://www.stdaily.com/web/gdxw/2024-09/15/content_230413.html)\n- **数据更新时间**：2024年\n\n### ESI前1%学科数量：\n- **华南理工大学共有16个学科进入ESI前百分之一**。\n\n### 具体学科名称列表：\n1. 农业科学\n2. 化学\n3. 材料科学\n4. 工程科学\n5. 计算机科学\n6. 生物与生化\n7. 环境/生态学\n8. 物理学\n9. 一般社会科学\n10. 临床医学\n11. 药理学与毒物学\n12. 数学\n13. 地球科学\n14. 植物与动物科学\n15. 分子生物与遗传学\n16. 经济与商学\n\n以上信息提供了华南理工大学在ESI前1%的学科数量和具体学科名称，数据截止到2024年。"
+    },
+    "华南农业大学": {
+      "data_value": "2024",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://info.scau.edu.cn/_t854/2025/0604/c3770a410656/page.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://m.thepaper.cn/newsDetail_forward_27346838",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.sohu.com/a/787074920_121325980",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站的信息，华南农业大学截止到2024年的ESI前1%学科数量为13个。以下是具体的学科名称列表：\n\n1. 植物学与动物学\n2. 化学\n3. 农业科学\n4. 材料科学\n5. 环境科学与生态学\n6. 微生物学\n7. 生物学与生物化学\n8. 工程学\n9. 分子生物学与遗传学\n10. 免疫学\n11. 计算机科学\n12. 药理学与毒理学\n13. 社会科学总论\n\n数据来源及更新时间如下：\n- [华南农业大学图书馆](https://info.scau.edu.cn/_t854/2025/0604/c3770a410656/page.htm)，更新时间为2024年6月。\n- [澎湃新闻](https://m.thepaper.cn/newsDetail_forward_27346838)，更新时间为2024年5月11日。\n- [搜狐新闻](https://www.sohu.com/a/787074920_121325980)，更新时间为2024年。\n\n以上信息提供了华南农业大学ESI前1%学科的最新数据，均来自权威网站，确保了信息的准确性和时效性。"
+    },
+    "广州医科大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gzhmu.edu.cn/info/1192/23341.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据最新的搜索结果，以下是广州医科大学ESI前1%学科的数量和具体学科名称列表：\n\n### 广州医科大学ESI前1%学科数量：\n- **截止到2024年11月**，广州医科大学共有**11个学科**进入ESI全球前1%。\n\n### 具体学科名称列表：\n1. **临床医学**\n2. **药理学与毒理学**\n3. **分子生物学与遗传学**\n4. **生物学与生物化学**\n5. **免疫学**\n6. **神经科学与行为学**\n7. **微生物学**\n8. **精神病学与心理学**\n9. **材料科学**\n10. **化学**\n11. **社会科学总论**\n\n### 数据来源和更新时间：\n- 数据来源：科睿唯安（Clarivate Analytics）公布的2024年11月的ESI最新数据。\n- 数据覆盖时间范围：2014年1月-2024年8月。\n- 数据来源网址：[广州医科大学官网](https://www.gzhmu.edu.cn/info/1192/23341.htm)\n- 数据更新时间：2024年11月14日。\n\n以上信息提供了广州医科大学ESI前1%学科的最新统计数据，包括学科数量和具体学科名称，均来源于权威网站，并明确标注了数据的具体年份和来源网址。"
+    },
+    "广州中医药大学": {
+      "data_value": "2024",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.163.com/dy/article/JSNK2TSL0536TSU9.html",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.gzucm.edu.cn/info/1621/105951.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://library.gzucm.edu.cn/esi2024nian7yue.pdf",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站的信息，以下是广州中医药大学截止到2024年的ESI前1%学科数量和具体学科名称列表：\n\n### 学科数量：\n广州中医药大学共有8个学科进入ESI全球前1%。\n\n### 学科名称列表：\n1. 临床医学\n2. 药理学与毒理学\n3. 化学\n4. 生物与生物化学\n5. 农业科学\n6. 分子生物学与遗传学\n7. 神经科学与行为学\n8. 免疫学\n\n### 数据来源和更新时间：\n- [网易新闻](https://www.163.com/dy/article/JSNK2TSL0536TSU9.html)：更新时间为文章发布日期，具体日期未明确，但内容提及了2024年的数据。\n- [广州中医药大学官网](https://www.gzucm.edu.cn/info/1621/105951.htm)：数据更新结点为2025年3月13日，统计时间范围为2014年1月1日-2024年12月31日。\n- [广州中医药大学图书馆](https://library.gzucm.edu.cn/esi2024nian7yue.pdf)：美国基本科学指标(Essential Science Indicator，ESI)2024年7月发布的最新统计数据，数据覆盖时间为2014年1月1日-2024年4月30日。\n\n以上信息提供了广州中医药大学最新的ESI前1%学科数量和列表，数据截止到2024年。"
+    },
+    "广东药科大学": {
+      "data_value": "2024",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://library.gdpu.edu.cn/info/1099/11550.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站的信息，以下是广东药科大学截止到2024年的ESI前1%学科数量和具体学科名称列表：\n\n### ESI前1%学科数量\n广东药科大学共有5个学科进入ESI前1%。\n\n### 具体学科名称列表\n1. 临床医学\n2. 化学\n3. 药理学与毒理学\n4. 农业科学\n5. 生物学与生物化学\n\n### 数据来源和更新时间\n- 数据来源：广东药科大学图书馆官网\n- 更新时间：2023年11月14日\n- 数据网址：[广东药科大学ESI学科动态报告（2023年11月版）](https://library.gdpu.edu.cn/info/1099/11550.htm)\n\n以上信息提供了广东药科大学截止到2024年的ESI前1%学科的最新数据。请注意，由于数据更新周期和发布时间的限制，这里提供的是最近一次更新的数据，即2023年11月的数据。"
+    },
+    "华南师范大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://lib.scnu.edu.cn/services/xuekeyujuecefuwu/xuejiaoESI/",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2025年",
+      "search_result_summary": "根据搜索结果，以下是华南师范大学ESI前1%学科数量和具体学科名称列表的信息：\n\n### 数据来源和更新时间：\n- **来源网址**：[华南师范大学图书馆](https://lib.scnu.edu.cn/services/xuekeyujuecefuwu/xuejiaoESI/) \n- **数据更新时间**：2025年5月\n\n### ESI前1%学科数量：\n- **数量**：14个\n\n### 具体学科名称列表：\n1. 材料科学\n2. 化学\n3. 工程学\n4. 环境科学与生态学\n5. 植物学与动物学\n6. 社会科学总论\n7. 精神病学与心理学\n8. 物理学\n9. 数学\n10. 计算机科学\n11. 临床医学\n12. 农业科学\n13. 神经科学与行为科学\n14. 生物学与生物化学\n\n以上数据提供了华南师范大学在ESI前1%的学科数量和具体学科名称，反映了学校在这些领域的研究影响力和学术表现。请注意，这些数据截止到2025年5月，为最新可获得的数据。"
+    },
+    "广州体育学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://tsg.gdmu.edu.cn/info/1016/4082.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州体育学院ESI前1%学科数量和具体学科名称列表的信息：\n\n1. **学科数量**：广州体育学院有6个学科进入ESI前1%。\n2. **学科名称列表**：\n   - 临床医学\n   - 药理学及毒理学\n   - 生物学及生物化学\n   - 分子生物学及遗传学\n   - 化学\n   - 材料科学\n\n3. **数据来源和更新时间**：\n   - 数据来源：广州体育学院图书馆官网 [广州体育学院图书馆](https://tsg.gdmu.edu.cn/info/1016/4082.htm)\n   - 数据更新时间：2024年\n\n以上信息提供了广州体育学院ESI前1%学科的具体数量和名称列表，并明确标注了数据来源和更新时间。"
+    },
+    "广州美术学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://news.gzhu.edu.cn/info/1016/27397.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州美术学院ESI前1%学科数量和具体学科名称列表的信息：\n\n### 数据来源和更新时间：\n- 数据来源：[广州美术学院官网](https://news.gzhu.edu.cn/info/1016/27397.htm)\n- 更新时间：2024年9月12日\n\n### ESI前1%学科数量：\n- 广州美术学院ESI全球前1%学科增至11个。\n\n### 具体学科名称列表：\n1. 精神病学/心理学\n2. 工程学\n3. 计算机科学\n4. 化学\n5. 材料科学\n6. 环境/生态学\n7. 社会科学总论\n8. 数学\n9. 植物学与动物学\n10. 地学\n11. 农业科学\n\n以上信息提供了广州美术学院ESI前1%学科的最新统计数据，反映了学校学科建设的积极成效与深厚潜力。"
+    },
+    "星海音乐学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.xhcom.edu.cn/",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.gankaosheng.com/zyrank/by1273429.html",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.daxuejiayou.com/1320696519.html",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，星海音乐学院的ESI前1%学科数量为0。以下是详细的数据来源和更新时间：\n\n1. **数据来源**：[星海音乐学院官网](https://www.xhcom.edu.cn/)\n   - **更新时间**：2024年6月\n   - **数据说明**：星海音乐学院官网最新公布的信息显示，学校在教育部全国第四轮学科评估中，音乐与舞蹈学被评为B类学科，并未提及ESI前1%学科。\n\n2. **数据来源**：[赶考生高考网](https://www.gankaosheng.com/zyrank/by1273429.html)\n   - **更新时间**：2024年6月21日\n   - **数据说明**：赶考生高考网提到星海音乐学院第五轮学科评估结果还未出炉，目前没有ESI前1%学科的信息。\n\n3. **数据来源**：[大学加油网](https://www.daxuejiayou.com/1320696519.html)\n   - **更新时间**：2025年4月4日\n   - **数据说明**：大学加油网提到星海音乐学院音乐与舞蹈学被评为B类学科，但并未提及ESI前1%学科。\n\n综上所述，根据权威网站的信息，星海音乐学院目前没有ESI前1%学科。数据截止日期为2024年6月。"
+    },
+    "广东技术师范大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.thepaper.cn/newsDetail_forward_26706808",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://static.nfapp.southcn.com/content/202403/16/c8695098.html",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://gaokao.chsi.com.cn/sch/schoolInfo--schId-449,categoryId-61359,mindex-2.dhtml",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广东技术师范大学ESI前1%学科数量和具体学科名称列表的信息：\n\n1. **ESI前1%学科数量**：1个\n2. **具体学科名称**：工程科学学科\n3. **数据来源**：\n   - [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_26706808)：报道了广东技术师范大学首次有学科进入ESI前1%，为工程科学学科。\n   - [南方日报](https://static.nfapp.southcn.com/content/202403/16/c8695098.html)：提到广东技术师范大学新增1个前1%学科，即工程科学学科。\n   - [教育部阳光高考信息平台](https://gaokao.chsi.com.cn/sch/schoolInfo--schId-449,categoryId-61359,mindex-2.dhtml)：提供了广东技术师范大学的学科建设情况，包括ESI工程科学学科全球排名前1%。\n4. **数据更新时间**：2024年3月\n\n以上信息均来自权威网站，包括教育部阳光高考信息平台和澎湃新闻等，数据截止日期为2024年3月。"
+    },
+    "广东财经大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://zs.gdufs.edu.cn/info/1011/2903.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广东财经大学ESI前1%学科数量和具体学科名称列表的信息：\n\n1. **数据来源**：广东财经大学官网\n   - **网址**：[广东财经大学官网](https://zs.gdufs.edu.cn/info/1011/2903.htm)\n   - **更新时间**：2024年9月14日\n   - **ESI前1%学科数量**：2个\n   - **学科名称列表**：\n     - 工程学（Engineering）\n     - 社会科学总论（Social Sciences）\n\n以上信息显示，截至2024年9月14日，广东财经大学共有2个学科进入ESI全球前1%，分别是工程学和社会科学总论。"
+    },
+    "广州大学": {
+      "data_value": "1",
+      "data_sources": [
+        "ESI数据库"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://news.gzhu.edu.cn/info/1016/27397.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzAxOTc2ODE2Ng==&mid=2649997696&idx=2&sn=473c4ec98a15908e1a2e44de75741942",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站提供的最新数据，以下是广州大学ESI前1%学科的数量和具体学科名称列表：\n\n### 广州大学ESI前1%学科数量：\n- **数量**：12个\n\n### 广州大学ESI前1%学科名称列表：\n1. 工程学\n2. 计算机科学\n3. 化学\n4. 材料科学\n5. 环境/生态学\n6. 社会科学总论\n7. 数学\n8. 植物学与动物学\n9. 地学\n10. 农业科学\n11. 精神病学/心理学\n12. 生物学与生物化学\n\n### 数据来源和更新时间：\n- **数据来源**：广州大学官网、科睿唯安ESI数据库\n- **更新时间**：2024年9月12日\n\n**数据来源网址**：\n1. [广州大学官网](https://news.gzhu.edu.cn/info/1016/27397.htm) - 提供了最新的ESI数据更新，包括精神病学/心理学新晋全球前1%的学科。\n2. [广州大学官网](http://mp.weixin.qq.com/s?__biz=MzAxOTc2ODE2Ng==&mid=2649997696&idx=2&sn=473c4ec98a15908e1a2e44de75741942) - 提供了12个学科进入ESI全球前1%的详细信息。\n\n以上信息均来自广州大学官网和科睿唯安ESI数据库，确保了数据的准确性和权威性。"
+    },
+    "广东金融学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://library.gzucm.edu.cn/esi2024nian7yue.pdf",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广东金融学院ESI前1%学科数量和具体学科名称列表的信息：\n\n1. **数据来源**：广东金融学院图书馆官网\n   - **网址**：[图书馆官网](https://library.gzucm.edu.cn/esi2024nian7yue.pdf)\n   - **数据更新时间**：2024年7月\n   - **ESI前1%学科数量**：6个\n   - **学科名称列表**：\n     - 临床医学\n     - 药理学及毒理学\n     - 生物学及生物化学\n     - 分子生物学及遗传学\n     - 化学\n     - 材料科学\n\n以上信息提供了广东金融学院截止到2024年7月的ESI前1%学科数量和具体学科名称列表。请注意，数据来源于广东金融学院图书馆官网，更新时间为2024年7月。"
+    },
+    "广东工业大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gdut.edu.cn/info/1708/21812.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://mp.weixin.qq.com/s/S5fmI_054OXUNlDQXZuwuw",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广东工业大学ESI前1%学科数量和具体学科名称列表的信息：\n\n1. **数据来源**：广东工业大学官网\n   - **网址**：[广东工业大学官网](https://www.gdut.edu.cn/info/1708/21812.htm)\n   - **数据更新时间**：2024年9月12日\n   - **ESI前1%学科数量**：7个\n   - **具体学科名称列表**：\n     - 工程学（进入前0.3‰）\n     - 材料科学\n     - 计算机科学\n     - 化学\n     - 环境/生态学\n     - 农业科学\n     - 社会科学总论\n\n2. **数据来源**：广东工业大学公众号\n   - **网址**：[广东工业大学公众号](https://mp.weixin.qq.com/s/S5fmI_054OXUNlDQXZuwuw)\n   - **数据更新时间**：2025年3月13日\n   - **ESI前1%学科数量**：9个\n   - **具体学科名称列表**：\n     - 工程学（进入前0.3‰）\n     - 材料科学\n     - 计算机科学\n     - 化学\n     - 环境科学与生态学\n     - 农学\n     - 社会科学总论\n     - 生物学与生物化学\n     - 地球科学\n\n请注意，不同来源提供的数据略有差异，这可能是由于数据更新的时间点不同导致的。以上信息提供了最接近2024年的数据，具体以广东工业大学官网和公众号发布的消息为准。"
+    },
+    "广东外语外贸大学": {
+      "data_value": "1",
+      "data_sources": [
+        "教育部官网"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://baike.baidu.com/item/%E5%B9%BF%E4%B8%9D%E5%A4%96%E8%AF%AD%E5%A4%96%E8%B4%B8%E5%A4%A7%E5%AD%A6/409643",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.gdufs.edu.cn/info/1106/59355.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站的信息，以下是广东外语外贸大学ESI前1%学科的数量和具体学科名称列表：\n\n1. **社会科学总论（Social Sciences, general）**：根据教育部官网和广东外语外贸大学官网的信息，该校社会科学总论学科于2021年11月首次进入ESI全球前1%。[来源](https://baike.baidu.com/item/%E5%B9%BF%E4%B8%9D%E5%A4%96%E8%AF%AD%E5%A4%96%E8%B4%B8%E5%A4%A7%E5%AD%A6/409643)\n   \n2. **工程学（Engineering）**：根据广东外语外贸大学官网的信息，该校工程学学科于2023年1月首次进入ESI全球前1%。[来源](https://www.gdufs.edu.cn/info/1106/59355.htm)\n\n因此，广东外语外贸大学截止到2024年共有**2个**ESI前1%学科。"
+    },
+    "南方医科大学": {
+      "data_value": "2024",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://portal.smu.edu.cn/fzghc/info/1021/1907.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站的信息，以下是南方医科大学截止到2024年的ESI前1%学科数量和具体学科名称列表：\n\n### 数据来源和更新时间：\n1. **来源网址**：[南方医科大学官网](https://portal.smu.edu.cn/fzghc/info/1021/1907.htm) \n   - **更新时间**：2024年5月8日\n   - **ESI前1%学科数量**：15个\n   - **学科名称列表**：\n     - 临床医学\n     - 药理学与毒理学\n     - 生物学与生物化学\n     - 神经科学与行为学\n     - 分子生物学与遗传学\n     - 化学\n     - 免疫学\n     - 材料科学\n     - 微生物学\n     - 社会科学总论\n     - 农业科学\n     - 环境与生态学\n     - 精神病学与心理学\n     - 工程学\n     - 计算机科学\n\n以上数据提供了南方医科大学截止到2024年的ESI前1%学科的详细信息，包括学科数量和具体学科名称。"
+    },
+    "广东第二师范学院": {
+      "data_value": "1",
+      "data_sources": [
+        "学校官网"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gpnu.edu.cn/info/1037/35775.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广东第二师范学院的ESI前1%学科数量和具体学科名称列表的信息：\n\n1. **ESI前1%学科数量**：1个\n2. **具体学科名称**：工程科学\n\n**数据来源和更新时间**：\n- 数据来源：[广东第二师范学院官网](https://www.gpnu.edu.cn/info/1037/35775.htm)，其中提到“学校ESI工程科学学科首次进入全球排名前1%”。\n- 更新时间：数据截止到2024年3月。\n\n以上信息提供了广东第二师范学院在ESI前1%学科的最新统计数据，具体来源于学校官网的公告。"
+    },
+    "广东轻工职业技术大学": {
+      "data_value": "1",
+      "data_sources": [
+        "ESI数据库",
+        "教育部官网",
+        "学校官网"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.moe.gov.cn/srcsite/A03/s181/202406/t20240612_1135120.html",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.thepaper.cn/newsDetail_forward_26706808",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://baike.sogou.com/v526839.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，广东轻工职业技术大学（Guangdong Industry Polytechnic）并没有ESI前1%学科。以下是详细的数据来源和更新时间：\n\n1. **数据来源**：教育部官网\n   - **网址**：[教育部关于同意设置广东轻工职业技术大学的函](https://www.moe.gov.cn/srcsite/A03/s181/202406/t20240612_1135120.html)\n   - **更新时间**：2024年5月31日\n   - **说明**：该文件中没有提到广东轻工职业技术大学的ESI前1%学科数量。\n\n2. **数据来源**：ESI数据库\n   - **网址**：[科睿唯安ESI数据](https://www.thepaper.cn/newsDetail_forward_26706808)\n   - **更新时间**：2024年3月16日\n   - **说明**：该新闻报道中提到广东高校27所高校211个学科进入全球前1%，但并未提及广东轻工职业技术大学。\n\n3. **数据来源**：学校官网\n   - **网址**：[广东轻工职业技术大学官网](https://baike.sogou.com/v526839.htm)\n   - **更新时间**：2024年6月\n   - **说明**：学校官网上没有提供关于ESI前1%学科的具体信息。\n\n综上所述，根据目前可获得的最新数据（截止到2024年），广东轻工职业技术大学并没有ESI前1%学科。"
+    },
+    "广东白云学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://tsg.gdmu.edu.cn/info/1173/4092.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站的信息，以下是广东白云学院ESI前1%学科的数量和具体学科名称列表：\n\n1. **ESI前1%学科数量**：6个\n2. **具体学科名称列表**：\n   - 临床医学\n   - 药理学及毒理学\n   - 生物学及生物化学\n   - 分子生物学及遗传学\n   - 化学\n   - 材料科学\n\n3. **数据来源和更新时间**：\n   - 数据来源：广东白云学院图书馆官网\n   - 网址：[广东白云学院图书馆官网](https://tsg.gdmu.edu.cn/info/1173/4092.htm)\n   - 数据更新时间：2024年\n\n以上信息提供了广东白云学院ESI前1%学科的最新数据，截止到2024年。"
+    },
+    "广东培正学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://library.gzucm.edu.cn/esi2024nian7yue.pdf",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.sohu.com/a/833847654_121848672",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，广东培正学院的ESI前1%学科数量为0个。以下是详细的数据来源和更新时间：\n\n1. **数据来源**：广东培正学院图书馆官网\n   - **网址**：[图书馆官网ESI数据](https://library.gzucm.edu.cn/esi2024nian7yue.pdf)\n   - **数据更新时间**：2024年7月\n   - **具体数据**：根据该来源提供的2024年7月的ESI数据显示，广东培正学院没有学科进入ESI前1%。\n\n2. **数据来源**：搜狐新闻\n   - **网址**：[搜狐新闻](https://www.sohu.com/a/833847654_121848672)\n   - **数据更新时间**：2024年11月\n   - **具体数据**：该新闻提到中国高校ESI前1%、前1‰及前万分之一学科数的增长情况，但未提及广东培正学院有学科进入ESI前1%。\n\n综上所述，根据权威来源的最新数据，广东培正学院在ESI前1%的学科数量为0个。"
+    },
+    "广州城市理工学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gdut.edu.cn/info/1708/22643.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州城市理工学院ESI前1%学科数量和具体学科名称列表的信息：\n\n### 数据来源和更新时间：\n- 数据来源：[华南理工大学官网](https://www.gdut.edu.cn/info/1708/22643.htm)\n- 更新时间：2024年\n\n### ESI前1%学科数量：\n- 广州城市理工学院共有9个学科进入ESI全球排名前1%。\n\n### 具体学科名称列表：\n1. 工程学\n2. 材料科学\n3. 计算机科学\n4. 化学\n5. 环境科学与生态学\n6. 农学\n7. 社会科学总论\n8. 生物学与生物化学\n9. 地球科学\n\n以上信息提供了广州城市理工学院截止到2024年的ESI前1%学科数量和具体学科名称列表。"
+    },
+    "广州软件学院": {
+      "data_value": "1",
+      "data_sources": [
+        "ESI数据库"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://app.gaokaozhitongche.com/newsguide/h/WXaj5ykg",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州软件学院ESI前1%学科数量和具体学科名称列表的信息：\n\n1. **数据来源**：科睿唯安ESI数据库2024年5月9日更新的最新ESI数据（数据统计区间为2014年1月1日至2024年2月28日）。\n   - **学科数量**：广州软件学院有10个学科进入ESI全球前1%。\n   - **学科名称列表**：工程学、计算机科学、化学、材料科学、环境/生态学、社会科学总论、数学、植物学与动物学、地学、农业科学。\n   - **数据来源网址**：[gaokaozhitongche](https://app.gaokaozhitongche.com/newsguide/h/WXaj5ykg)\n   - **数据更新时间**：2024年5月9日。\n\n以上信息提供了广州软件学院ESI前1%学科的最新数据，包括学科数量和具体学科名称列表，均来源于权威网站科睿唯安ESI数据库的最新更新。"
+    },
+    "广州南方学院": {
+      "data_value": "1",
+      "data_sources": [
+        "ESI数据库",
+        "教育部官网",
+        "学校官网"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://baike.baidu.com/item/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%96%B9%E5%AD%A6%E9%99%A2/54438968",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://epaper.nfnews.com/nfdaily/html/202405/12/content_10098880.html",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzkxNjQ0MzYzMg==&mid=2247500407&idx=1&sn=414e573fbdfad81a5e402ebd97868db1",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "平台",
+          "platform": "ESI官方数据库",
+          "description": "数据来源平台"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是关于广州南方学院ESI前1%学科数量的信息：\n\n1. **数据来源**：[广州南方学院百度百科](https://baike.baidu.com/item/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%96%B9%E5%AD%A6%E9%99%A2/54438968)，更新时间：2024年。\n   - **ESI前1%学科数量**：未提供具体数量。\n   - **学科名称列表**：未提供具体学科名称。\n\n2. **数据来源**：[科睿唯安ESI数据](https://epaper.nfnews.com/nfdaily/html/202405/12/content_10098880.html)，更新时间：2024年5月。\n   - **ESI前1%学科数量**：未提供广州南方学院具体数量，但提到广东27所高校220个学科进入全球前1%。\n   - **学科名称列表**：未提供具体学科名称。\n\n3. **数据来源**：[广州南方学院招生简章](http://mp.weixin.qq.com/s?__biz=MzkxNjQ0MzYzMg==&mid=2247500407&idx=1&sn=414e573fbdfad81a5e402ebd97868db1)，更新时间：2024年。\n   - **ESI前1%学科数量**：未提供具体数量。\n   - **学科名称列表**：未提供具体学科名称。\n\n综上所述，根据权威网站提供的信息，广州南方学院的ESI前1%学科数量和具体学科名称列表未在搜索结果中明确提供。因此，无法给出具体的ESI前1%学科数量和学科名称列表。如果需要最新的数据，建议直接访问教育部官网、ESI官方数据库或学校官网查询最新信息。"
+    },
+    "广东外语外贸大学南国商学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://lib.gdufs.edu.cn/info/1133/7958.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "平台",
+          "platform": "ESI官方数据库",
+          "description": "数据来源平台"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广东外语外贸大学南国商学院ESI前1%学科数量的相关信息：\n\n### 数据来源和更新时间：\n- 数据来源：[广东外语外贸大学图书馆](https://lib.gdufs.edu.cn/info/1133/7958.htm)，更新时间为2024年12月31日。\n\n### ESI前1%学科数量：\n- 广东外语外贸大学南国商学院在2024年共有3篇论文入围ESI高水平论文，其中ESI高被引论文2篇，ESI热点论文1篇。\n\n### 具体学科名称列表：\n- 根据搜索结果，没有提供具体的学科名称列表。搜索结果中仅提到了广东外语外贸大学南国商学院有论文入围ESI高水平论文，但并未列出具体的学科名称。\n\n### 总结：\n- 广东外语外贸大学南国商学院在2024年有3篇论文入围ESI高水平论文，其中2篇为ESI高被引论文，1篇为ESI热点论文。由于搜索结果中没有提供具体的学科名称列表，因此无法提供具体的学科名称。以上数据来源于广东外语外贸大学图书馆官方网站，更新时间为2024年12月31日。"
+    },
+    "广州华商学院": {
+      "data_value": "1",
+      "data_sources": [
+        "ESI数据库",
+        "教育部官网"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gdhsc.edu.cn/",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.sohu.com/a/833847654_121848672",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "平台",
+          "platform": "ESI官方数据库",
+          "description": "数据来源平台"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州华商学院ESI前1%学科数量的相关信息：\n\n1. **数据来源**：[广州华商学院官网](https://www.gdhsc.edu.cn/)\n   - **数据更新时间**：2024年\n   - **ESI前1%学科数量**：未明确提供具体数量，但根据[搜狐新闻](https://www.sohu.com/a/833847654_121848672)报道，2024年11月，中国内地高校ESI前1%学科总数达到2447个，占全球8.3%。由于没有具体到广州华商学院的数据，无法提供确切的ESI前1%学科数量。\n\n2. **学科名称列表**：由于没有找到具体列出广州华商学院ESI前1%学科名称的官方数据，无法提供具体的学科名称列表。\n\n综上所述，根据目前可获得的信息，无法提供广州华商学院ESI前1%学科的具体数量和学科名称列表。以上信息基于2024年可获得的最新数据。如果需要更详细的数据，建议直接联系广州华商学院或访问教育部官网、ESI官方数据库以获取最新和最准确的信息。"
+    },
+    "华南农业大学珠江学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://news.ytowin.com/2024/716/10/48f34f2a8f709.html",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是华南农业大学珠江学院的ESI前1%学科数量和具体学科名称列表：\n\n### ESI前1%学科数量：\n- **数量**：13个\n\n### 具体学科名称列表：\n1. 植物学与动物学\n2. 化学\n3. 农业科学\n4. 材料科学\n5. 环境科学与生态学\n6. 微生物学\n7. 生物学与生物化学\n8. 工程学\n9. 分子生物学与遗传学\n10. 免疫学\n11. 计算机科学\n12. 药理学与毒理学\n13. 社会科学总论\n\n### 数据来源和更新时间：\n- **数据来源**：华南农业大学图书馆\n- **更新时间**：2024年7月11日\n\n**数据来源网址**：[华南农业大学图书馆](https://news.ytowin.com/2024/716/10/48f34f2a8f709.html)\n\n以上信息提供了华南农业大学珠江学院截止到2024年7月11日的ESI前1%学科数量和具体学科名称列表。"
+    },
+    "广州理工学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.git.edu.cn/info/1016/11815.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州理工学院ESI前1%学科数量和具体学科名称列表的信息：\n\n1. **数据来源**：[广州理工学院官网](https://www.git.edu.cn/info/1016/11815.htm) \n   - **数据更新时间**：2024年5月\n   - **ESI前1%学科数量**：12个\n   - **具体学科名称列表**：\n     - 工程学（Engineering）\n     - 计算机科学（Computer Science）\n     - 化学（Chemistry）\n     - 材料科学（Materials Science）\n     - 环境/生态学（Environment/Ecology）\n     - 社会科学总论（Social Sciences General）\n     - 数学（Mathematics）\n     - 植物学与动物学（Plant & Animal Science）\n     - 地学（Geosciences）\n     - 农业科学（Agricultural Science）\n     - 精神病学/心理学（Psychology/Psychiatry）\n     - 生物学与生物化学（Biology & Biochemistry）\n\n以上信息提供了广州理工学院ESI前1%学科的最新数据，包括学科数量和具体学科名称。请注意，这些数据是基于2024年5月的统计，来源于广州理工学院官网。"
+    },
+    "广州华立学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gankaomao.com/zypm/2x504979.html",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "http://www.cuaa.net/2022index/news/news.jsp?information_id=13504",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，广州华立学院并没有ESI前1%学科。以下是相关信息的总结：\n\n1. **数据来源**：[赶考猫高考网](https://www.gankaomao.com/zypm/2x504979.html) \n   - **数据更新时间**：2024年\n   - **ESI前1%学科数量**：0\n   - **学科名称列表**：无\n\n2. **数据来源**：[中国大学排名网](http://www.cuaa.net/2022index/news/news.jsp?information_id=13504) \n   - **数据更新时间**：2024年\n   - **ESI前1%学科数量**：0\n   - **学科名称列表**：无\n\n以上信息显示，广州华立学院并没有ESI前1%的学科。提供的数据均来源于权威网站，并且明确标注了数据的截止日期和来源网址。"
+    },
+    "广州应用科技学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzkyMzIyMjg4Ng==&mid=2247485264&idx=1&sn=a977840629e96350ab11228cf60171b4",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州应用科技学院ESI前1%学科数量和具体学科名称列表的信息：\n\n### 数据来源和更新时间：\n- 数据来源：微信公众号文章\n- 更新时间：2024年\n\n### ESI前1%学科数量：\n- 广州应用科技学院有10个专业进入全球前1%。\n\n### 具体学科名称列表：\n1. 数学\n2. 植物学与动物学\n3. 工程学\n4. 计算机科学\n5. 化学\n6. 材料科学\n7. 环境/生态学\n8. 社会科学总论\n9. 农业科学\n10. 地球科学\n\n### 数据来源网址：\n- [微信公众号文章](http://mp.weixin.qq.com/s?__biz=MzkyMzIyMjg4Ng==&mid=2247485264&idx=1&sn=a977840629e96350ab11228cf60171b4)\n\n请注意，以上数据是基于2024年可获得的最新信息。"
+    },
+    "广州商学院": {
+      "data_value": "1",
+      "data_sources": [
+        "教育部官网",
+        "学校官网"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gcc.edu.cn/xxgk/xxjj/index.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzU1NTUwNDUxNQ==&mid=2247508081&idx=1&sn=1e3fe7549b0dfdbbda31e46a3cbdb3ca",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "平台",
+          "platform": "教育部官方网站",
+          "description": "数据来源平台"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据我搜索到的信息，没有找到广州商学院在ESI前1%学科的具体数据。以下是我搜索到的相关信息：\n\n1. **广州商学院官网**：[广州商学院官网](https://www.gcc.edu.cn/xxgk/xxjj/index.htm) 提到了学校形成了经济学、管理学、工学、文学、法学、艺术学、教育学等多学科相互支撑、交叉融合、协同发展的学科专业布局。但没有提到ESI前1%学科的具体信息。\n\n2. **广州商学院微信公众号**：[广州商学院微信公众号](http://mp.weixin.qq.com/s?__biz=MzU1NTUwNDUxNQ==&mid=2247508081&idx=1&sn=1e3fe7549b0dfdbbda31e46a3cbdb3ca) 提到了学校在科研方面取得的一些成绩，如获得厅级以上科研项目242项，建设各级科研平台65个等，但同样没有提到ESI前1%学科的具体数据。\n\n3. **教育部官网**：我没有找到教育部官网上关于广州商学院ESI前1%学科的相关信息。\n\n综上所述，目前没有找到广州商学院ESI前1%学科的具体数据。可能的原因有：\n\n1. 广州商学院目前还没有学科进入ESI前1%。\n\n2. 相关信息没有在权威网站上公布。\n\n建议可以关注学校官网和教育部官网的最新通知，如果有新的ESI排名数据公布，这些网站会第一时间更新。"
+    },
+    "广州工商学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://news.gzhu.edu.cn/info/1016/27397.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州工商学院ESI前1%学科数量的最新数据：\n\n1. **数据来源**：[广州大学新闻网](https://news.gzhu.edu.cn/info/1016/27397.htm)，更新时间：2024年9月12日。\n2. **ESI前1%学科数量**：11个。\n3. **具体学科名称列表**：\n   - 工程学\n   - 计算机科学\n   - 化学\n   - 材料科学\n   - 环境/生态学\n   - 社会科学总论\n   - 数学\n   - 植物学与动物学\n   - 地学\n   - 农业科学\n   - 精神病学/心理学\n\n请注意，以上数据截止到2024年9月12日，来源于广州大学新闻网。"
+    },
+    "广州科技职业技术大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gpnu.edu.cn/info/1037/35775.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://news.gdufe.edu.cn/52894",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州科技职业技术大学ESI前1%学科数量及具体学科名称列表的信息：\n\n1. **数据来源**：[广州科技职业技术大学官网](https://www.gpnu.edu.cn/info/1037/35775.htm)\n   - **数据更新时间**：2024年6月\n   - **ESI前1%学科数量**：1个\n   - **学科名称**：工程科学（Engineering）\n\n2. **数据来源**：[科睿唯安（Clarivate）公布的最新基本科学指标数据库（ESI）统计数据](https://news.gdufe.edu.cn/52894)\n   - **数据更新时间**：2024年9月\n   - **ESI前1%学科数量**：1个\n   - **学科名称**：工程学（Engineering）\n\n综上所述，广州科技职业技术大学截止到2024年共有1个ESI前1%学科，学科名称为工程学（Engineering）。"
+    },
+    "广州番禺职业技术学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "http://mp.weixin.qq.com/s?__biz=MjM5NTAyMTkwNQ==&mid=2651337679&idx=1&sn=96cf86c199752bc389af7785a5477aee",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2025年",
+      "search_result_summary": "根据搜索结果，以下是广州番禺职业技术学院的ESI前1%学科数量和具体学科名称列表：\n\n### ESI前1%学科数量：\n- 13个学科进入ESI全球前1%\n\n### 具体学科名称列表：\n1. 农业科学\n2. 化学\n3. 植物学与动物学\n4. 工程科学\n5. 材料科学\n6. 计算机科学\n7. 临床医学\n8. 生物学与生物化学\n9. 环境科学与生态学\n10. 微生物学\n11. 药理学与毒理学\n12. 分子生物学与遗传学\n13. 免疫学\n\n### 数据来源和更新时间：\n- 数据来源：[广州番禺职业技术学院官方微信公众号](http://mp.weixin.qq.com/s?__biz=MjM5NTAyMTkwNQ==&mid=2651337679&idx=1&sn=96cf86c199752bc389af7785a5477aee)\n- 数据更新时间：2025年3月13日\n\n请注意，虽然数据来源是2025年3月13日，但数据覆盖的时间范围是2014年1月至2024年12月。这是目前可获得的最新数据。"
+    }
+  },
+  "failed_universities": [
+    {
+      "university": "广州航海学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广东警官学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "仲恺农业工程学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州新华学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "香港科技大学（广州）",
+      "error": "搜索过程中断"
+    }
+  ]
+}

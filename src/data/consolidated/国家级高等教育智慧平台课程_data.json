@@ -1,0 +1,2852 @@
+{
+  "metric": "国家级高等教育智慧平台课程",
+  "data_sources": [
+    "national_smart_platform"
+  ],
+  "successful_sources": [
+    "national_smart_platform"
+  ],
+  "total_items": 29,
+  "results": [
+    {
+      "school": "中山大学",
+      "total_courses": 50,
+      "courses": [
+        {
+          "school": "中山大学",
+          "course_name": "大学生心理健康",
+          "teacher": "杨振斌"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "医学统计学",
+          "teacher": "郝元涛"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "新媒体素养",
+          "teacher": "张志安"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "内科护理学",
+          "teacher": "赵娟娟"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "信息素养通识教程：数字化生存的必修课",
+          "teacher": "潘燕桃"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "光学",
+          "teacher": "Min CHEN"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "健康评估",
+          "teacher": "李琨"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "图书馆管理",
+          "teacher": "程焕文"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "外科护理学",
+          "teacher": "张美芬"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "有机化学",
+          "teacher": "朱庭顺"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "有机化学",
+          "teacher": "鲁桂"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "新闻采写",
+          "teacher": "张志安"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "基础有机化学实验",
+          "teacher": "李厚金"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "旅游地理学",
+          "teacher": "保继刚"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "生物化学与基础分子生物学实验",
+          "teacher": "欧田苗"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "康复护理学",
+          "teacher": "郑修元"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "护理管理学",
+          "teacher": "张俊娥"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "骨科学概论",
+          "teacher": "宋斌"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "会展概论",
+          "teacher": "罗秋菊"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "网球技术与实战教程",
+          "teacher": "陈祥慧"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "人工智能原理与实践",
+          "teacher": "吴贺俊"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "儿少卫生学",
+          "teacher": "陈亚军"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "计算机辅助设计与绘图(AutoCAD和Creo)",
+          "teacher": "刘强"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "生命伦理学",
+          "teacher": "贺竹梅"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "智能媒体应用实践",
+          "teacher": "武汇岳"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "体育赛事管理与推广",
+          "teacher": "范宏伟"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "Medical Statistics",
+          "teacher": "Gu Jing"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "Haskell函数程序设计基础",
+          "teacher": "乔海燕"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "法医病理学",
+          "teacher": "成建定"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "主题公园管理",
+          "teacher": "梁增贤"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "Optics",
+          "teacher": "Min CHEN"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "文学话语研读",
+          "teacher": "马津"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "基础解剖学（第十期）",
+          "teacher": "郭开华"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "资源与环境经济学",
+          "teacher": "于海霞"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "神经解剖学",
+          "teacher": "郭开华"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "普通天文学",
+          "teacher": "林伟鹏"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "海洋生态学",
+          "teacher": "何蕾"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "现代医学影像学",
+          "teacher": "单鸿"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "普通外科不“普通”",
+          "teacher": "张昆松"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "气道管理",
+          "teacher": "黎尚荣"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "文化与社会",
+          "teacher": "周大鸣"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "高等数学三",
+          "teacher": "解玲丽"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "口腔颌面外科学",
+          "teacher": "廖贵清"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "结直肠外科学",
+          "teacher": "兰平"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "地基处理技术",
+          "teacher": "宋晶"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "工匠书缘：古籍的修复与文化传承",
+          "teacher": "张靖"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "产前监护和产前诊断",
+          "teacher": "罗艳敏"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "经济学基础",
+          "teacher": "梁平汉"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "法语阅读",
+          "teacher": "曾晓阳"
+        },
+        {
+          "school": "中山大学",
+          "course_name": "中国古代制度与文学",
+          "teacher": "史洪权"
+        }
+      ]
+    },
+    {
+      "school": "华南理工大学",
+      "total_courses": 66,
+      "courses": [
+        {
+          "school": "华南理工大学",
+          "course_name": "形体与形象塑造",
+          "teacher": "樊莲香"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "西班牙语初级",
+          "teacher": "何文君"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "学术英语",
+          "teacher": "韩金龙"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "酒店管理原理",
+          "teacher": "魏卫"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "大学美育",
+          "teacher": "苏宏元"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "庄子寓言及其智慧",
+          "teacher": "周娉娣"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "英美音乐与文化",
+          "teacher": "周娉娣"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "机械设计基础",
+          "teacher": "黄平"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "城市规划原理",
+          "teacher": "刘晖"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "企业战略管理",
+          "teacher": "蓝海林"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "酒店房务运营与管理",
+          "teacher": "曲波"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "配送中心设计与管理",
+          "teacher": "万艳春"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "制浆原理与工程",
+          "teacher": "付时雨"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "工程认知",
+          "teacher": "胡青春"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "大学公共体育",
+          "teacher": "唐建倦"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "韩语日常会话入门",
+          "teacher": "金华"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "计算机网络",
+          "teacher": "袁华"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "大学计算机基础",
+          "teacher": "徐红云"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "日语初级",
+          "teacher": "李博"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "思想道德与法治",
+          "teacher": "王晓丽"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "离散数学",
+          "teacher": "陈琼"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "1+1塑形健身舞蹈",
+          "teacher": "刘冬笑"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "食品营养与卫生学",
+          "teacher": "唐语谦"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "中国文学与文化",
+          "teacher": "黄有东"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "植物景观规划与设计",
+          "teacher": "冯娴慧"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "思维与逻辑——应该如何讲理",
+          "teacher": "夏正林"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "大学英语口语进阶",
+          "teacher": "李昀"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "英语电影与文化",
+          "teacher": "屈薇"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "数据结构",
+          "teacher": "吕建明"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "互联网金融",
+          "teacher": "廖俊峰"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "构型设计制图",
+          "teacher": "王枫红"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "思维与逻辑学",
+          "teacher": "夏正林"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "商务英语案例分析",
+          "teacher": "徐鹰"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "制浆造纸机械与设备",
+          "teacher": "杨飞"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "微积分1",
+          "teacher": "邓雪"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "管理学原理",
+          "teacher": "叶广宇"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "酒·文化",
+          "teacher": "郑穗平"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "计算机网络 Computer Networks",
+          "teacher": "王昊翔"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "机械设计",
+          "teacher": "李旻"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "趣读财务报表",
+          "teacher": "李沐纯"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "食品生物化学",
+          "teacher": "任娇艳"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "数学实验",
+          "teacher": "刘小兰"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "嵌入式系统",
+          "teacher": "毕盛"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "混凝土结构理论",
+          "teacher": "季静"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "管理统计学",
+          "teacher": "张卫国"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "计算机辅助设计",
+          "teacher": "方利国"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "建筑设计入门",
+          "teacher": "苏平"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "食品化学",
+          "teacher": "赵谋明"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "液晶显示技术",
+          "teacher": "王丹"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "材料与社会",
+          "teacher": "薛锋"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "多媒体技术及应用",
+          "teacher": "郭芬"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "计算机安全",
+          "teacher": "李家春"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "咖啡学概论",
+          "teacher": "庄军平"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "微生物学",
+          "teacher": "王菊芳"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "3D游戏引擎架构设计基础",
+          "teacher": "陈泽琳"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "材料力学",
+          "teacher": "张晓晴"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "食品微生物学",
+          "teacher": "刘冬梅"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "制浆造纸原理与工程",
+          "teacher": "陈港"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "说话的艺术：解锁语言沟通的十个密码",
+          "teacher": "严俊"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "数字化学习",
+          "teacher": "陆芳"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "电子支付",
+          "teacher": "徐勇"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "电力系统稳态分析",
+          "teacher": "武志刚"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "虚拟现实技术",
+          "teacher": "熊巍"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "创业精神与创业故事会",
+          "teacher": "周育红"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "整合品牌传播",
+          "teacher": "段淳林"
+        },
+        {
+          "school": "华南理工大学",
+          "course_name": "戏剧审美与剧场实验",
+          "teacher": "孙珉"
+        }
+      ]
+    },
+    {
+      "school": "暨南大学",
+      "total_courses": 92,
+      "courses": [
+        {
+          "school": "暨南大学",
+          "course_name": "Pediatric Tuina and Children’s diet therapy",
+          "teacher": "谢慧珺"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "医学汉语",
+          "teacher": "徐富平"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Prevention, Control and Treatment of Chronic Diseases",
+          "teacher": "聂红"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "New Media and Cultural Studies",
+          "teacher": "刘涛"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Personality and Mental Disorders—Be a therapist of your own",
+          "teacher": "Yanbin JIA"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Management Consulting",
+          "teacher": "CongdongLI"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Prevention,control and treatment of chronic diseases",
+          "teacher": "Hong NIE"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Introduction to World's Famous Spirits",
+          "teacher": "陈龙"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Management Consulting",
+          "teacher": "李从东"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Good Oils for Better Life: Introduction to Science of Edible Oils and Essential Oils",
+          "teacher": "汪勇"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "国际商务（2025春）",
+          "teacher": "林学军"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "药事管理与法规",
+          "teacher": "宿凌"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "跨境电商理论与实践",
+          "teacher": "王玉"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "英语语法与写作",
+          "teacher": "朱湘军"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "中医与诊断—学做自己的医生",
+          "teacher": "孙立"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "英语词汇与文化",
+          "teacher": "朱湘军"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "数字营销：走进智慧的品牌",
+          "teacher": "谷虹"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "中医养生与亚健康防治",
+          "teacher": "孙升云"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "创业基础",
+          "teacher": "张耀辉"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "民法与生活",
+          "teacher": "钟瑞栋"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "中医基础理论",
+          "teacher": "陈利国"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "多元统计分析及R语言建模",
+          "teacher": "王斌会"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "新媒体文化十二讲",
+          "teacher": "刘涛"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "生活中的货币时间价值",
+          "teacher": "程静"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "实用针灸学——经络养生与康复",
+          "teacher": "张毅敏"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "《红楼梦》的空间艺术",
+          "teacher": "张世君"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "行政职业能力提升",
+          "teacher": "李伟权"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "智圆行方的世界——中国传统文化概论",
+          "teacher": "史怀刚"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "新时代中国特色社会主义理论与实践",
+          "teacher": "程京武"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "人格与精神障碍——学做自己的心理医生",
+          "teacher": "贾艳滨"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "营商的法律智慧：商法",
+          "teacher": "朱义坤"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "国际私法",
+          "teacher": "戴霞"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "管理学原理",
+          "teacher": "吴菁"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "走近马克思",
+          "teacher": "田明"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "理性色彩 智慧人生",
+          "teacher": "曾振伟"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "人力资源管理",
+          "teacher": "叶茂林"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "管理咨询",
+          "teacher": "李从东"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "高级财务会计",
+          "teacher": "谭小平"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "细胞生物学：细胞社会的奥秘",
+          "teacher": "黄峙"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "生物医药实验室安全知识",
+          "teacher": "于沛"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "计算机辅助药物设计",
+          "teacher": "孙平华"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "运输包装",
+          "teacher": "王志伟"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "英美概况——纵览·博闻",
+          "teacher": "陈穗珊"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "融合新闻：通往未来新闻之路",
+          "teacher": "刘涛"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "日语—自游自在日本行",
+          "teacher": "陈凤川"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "国际名酒知识与品鉴",
+          "teacher": "陈龙"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "颈肩腰腿痛中医防治",
+          "teacher": "唐树杰"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "中医与辨证",
+          "teacher": "薛飞飞"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "著作权法",
+          "teacher": "赵克祥"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "中国税法：案例·原理·方法",
+          "teacher": "方赛迎"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "基础写作Ⅰ",
+          "teacher": "李丹丹"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "女性中医保健",
+          "teacher": "秦佳佳"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "中药药理学-学做自己的调理师",
+          "teacher": "聂红"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "华文趣味教学法",
+          "teacher": "蔡丽"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "新闻传播史",
+          "teacher": "赵建国"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "自然保护与生态安全：拯救地球家园",
+          "teacher": "黄柏炎"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "数学建模",
+          "teacher": "张元标"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "基础笔译：汉英翻译",
+          "teacher": "朱湘军"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "数据可视化—基于Python的应用",
+          "teacher": "王斌会"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "小儿推拿家庭保健与饮食调护",
+          "teacher": "谢慧珺"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "资讯科技",
+          "teacher": "刘小丽"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "广州话教学（粤语入门）",
+          "teacher": "侯兴泉"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "基础日语",
+          "teacher": "欧阳丹"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "组织行为学（全英）",
+          "teacher": "苏晓艳"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "法律人看婚姻家事",
+          "teacher": "宋耀红"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "文科物理学——生活中的物理",
+          "teacher": "张伟"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "葡萄牙语语言文化赏析",
+          "teacher": "叶农"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "实用中医儿科学",
+          "teacher": "周永红"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "基础笔译",
+          "teacher": "朱湘军"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "国际商务文化—一门关于沟通的学问",
+          "teacher": "罗靖"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "美好生活“油”此而来：油科学概论",
+          "teacher": "汪勇"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "商法学",
+          "teacher": "朱义坤"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "基础笔译：英汉翻译",
+          "teacher": "朱湘军"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "药物化学",
+          "teacher": "孙平华"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "医学影像检查技术学",
+          "teacher": "张水兴"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "哲思与诗意——禅诗鉴赏与创作",
+          "teacher": "何志军"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "国际商务",
+          "teacher": "林学军"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "动物细胞工程",
+          "teacher": "邓宁"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "论语中的“礼”与西方礼仪",
+          "teacher": "王方"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "生活中的理财原理",
+          "teacher": "陶晓慧"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "生物化学",
+          "teacher": "宇丽"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "市场营销学",
+          "teacher": "杨德锋"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "分子生物学",
+          "teacher": "邹奕"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "材料力学",
+          "teacher": "宁志华"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Basic Japanese（基础日语）",
+          "teacher": "欧阳丹"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "A Guide to English-speaking Countries",
+          "teacher": "陈穗珊"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "药学实践",
+          "teacher": "张建萍"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Diagnostics in Chinese Medicine",
+          "teacher": "孙立"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Computer-Aided Drug Design",
+          "teacher": "孙平华"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "病理生理学",
+          "teacher": "吕秀秀"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Science-based Food Safety Supervision",
+          "teacher": "唐书泽"
+        },
+        {
+          "school": "暨南大学",
+          "course_name": "Macroeconomics",
+          "teacher": "刘羽帆"
+        }
+      ]
+    },
+    {
+      "school": "华南农业大学",
+      "total_courses": 23,
+      "courses": [
+        {
+          "school": "华南农业大学",
+          "course_name": "压花艺术——发现植物之美",
+          "teacher": "陈国菊"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "电影音乐欣赏",
+          "teacher": "胡远慧"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "低碳生活与绿色文明",
+          "teacher": "吕辉雄"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "动物生物化学",
+          "teacher": "张永亮"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "线性代数（华南农业大学）",
+          "teacher": "魏福义"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "动物生理学",
+          "teacher": "江青艳"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "概率论",
+          "teacher": "肖莉"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "兽医寄生虫学",
+          "teacher": "李国清"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "金融学：微观运行与宏观均衡",
+          "teacher": "柳松"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "遗传学",
+          "teacher": "刘向东"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "Food Microbiology Testing",
+          "teacher": "王丽"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "动物遗传学",
+          "teacher": "张细权"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "试验统计学",
+          "teacher": "刘桂富"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "食品原料学(国家级慕课/第十五期）",
+          "teacher": "蒋爱民"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+          "teacher": "周尚万"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "气候变化与人类文明",
+          "teacher": "胡飞"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "食品营养学",
+          "teacher": "王弘"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "食品微生物检验学",
+          "teacher": "王丽"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "食品化学（广东省一流本科课程）",
+          "teacher": "周爱梅"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "食品机械与设备",
+          "teacher": "宋贤良"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "功能食品概论",
+          "teacher": "赵力超"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "精准农业航空技术及应用",
+          "teacher": "兰玉彬"
+        },
+        {
+          "school": "华南农业大学",
+          "course_name": "兽医药理学",
+          "teacher": "曾振灵"
+        }
+      ]
+    },
+    {
+      "school": "广州医科大学",
+      "total_courses": 15,
+      "courses": [
+        {
+          "school": "广州医科大学",
+          "course_name": "The Prevention and Management of COVID-19",
+          "teacher": "钟南山"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "医患沟通与调适",
+          "teacher": "刘俊荣"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "发展心理学",
+          "teacher": "张雪琴"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "药理学",
+          "teacher": "刘英华"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "医学信息素养",
+          "teacher": "袁林"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "Innovation and Creative Thinking （创新与创意思维）",
+          "teacher": "汪国成"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "走进肺功能",
+          "teacher": "高怡"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "Pharmacology",
+          "teacher": "刘英华"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "临床人工智能数据挖掘",
+          "teacher": "杨其霖"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "心理学与健康",
+          "teacher": "陈灿锐"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "组织学与胚胎学",
+          "teacher": "张征宇"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "运动科学",
+          "teacher": "欧海宁"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "儿科临床技能操作",
+          "teacher": "熊伟"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "社会实践——全民健康，药你同行",
+          "teacher": "麦倩挚"
+        },
+        {
+          "school": "广州医科大学",
+          "course_name": "临床药物治疗学",
+          "teacher": "王一西"
+        }
+      ]
+    },
+    {
+      "school": "广州中医药大学",
+      "total_courses": 44,
+      "courses": [
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医儿科学",
+          "teacher": "许尤佳"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "医学免疫学与病原生物学",
+          "teacher": "邝枣园"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医看妇科——女性一生的康与病",
+          "teacher": "罗颂平"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "温病学",
+          "teacher": "吴智兵"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医英语入门",
+          "teacher": "苏红"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医耳鼻喉科学",
+          "teacher": "刘蓬"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "走进针灸",
+          "teacher": "李敏"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医英语进阶",
+          "teacher": "苏红"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "精讲精学中医基础理论",
+          "teacher": "严灿"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "剖析肌肉结构，拥有健康生命",
+          "teacher": "郝木峰"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中西医结合内科学",
+          "teacher": "杨晓军"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "人格心理学",
+          "teacher": "马利军"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医饮食调护",
+          "teacher": "宋阳"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "方剂学",
+          "teacher": "全世建"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医的理与法",
+          "teacher": "黎敬波"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医医院管理学",
+          "teacher": "庞震苗"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "康复评定学",
+          "teacher": "谢芹"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中西医结合妇产科学",
+          "teacher": "梁雪芳"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医临床思维方法",
+          "teacher": "杨志敏"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医肿瘤学",
+          "teacher": "林丽珠"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "岭南针灸流派——靳三针疗法",
+          "teacher": "王澍欣"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "岭南中药炮制",
+          "teacher": "夏荃"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "创业新浪潮：医药健康创新创业",
+          "teacher": "叶清"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中西医结合耳鼻喉科学",
+          "teacher": "陈文勇"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "实用临床生物化学检验",
+          "teacher": "黄宪章"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "医用物理学",
+          "teacher": "陈昭喜"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "骨往筋来-骨折与脱位的保守治疗",
+          "teacher": "李朋"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "针灸治疗学",
+          "teacher": "林涵"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "国医大师邓铁涛康寿之道",
+          "teacher": "陈瑞芳"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "金匮要略",
+          "teacher": "林昌松"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医内科学",
+          "teacher": "吴伟"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "骨伤科手术学",
+          "teacher": "陈文治"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中药药理学",
+          "teacher": "操红缨"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "岭南中草药精粹——从基础到临床",
+          "teacher": "唐洪梅"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "An Introduction to Chinese Medicine",
+          "teacher": "苏红"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "伤寒论",
+          "teacher": "李赛美"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "名中医教你开药方(方剂学）",
+          "teacher": "全世建"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "急救在身边",
+          "teacher": "丁邦晗"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中西医结合外科学之皮肤性病学",
+          "teacher": "李红毅"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "中医各家学说及医案选",
+          "teacher": "刘成丽"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "药理学",
+          "teacher": "周园"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "经络腧穴学（第6期）",
+          "teacher": "李素荷"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "黄帝内经Huang Di Nei Jing",
+          "teacher": "张小虎"
+        },
+        {
+          "school": "广州中医药大学",
+          "course_name": "青春·健康·性",
+          "teacher": "韩宇霞"
+        }
+      ]
+    },
+    {
+      "school": "广东药科大学",
+      "total_courses": 12,
+      "courses": [
+        {
+          "school": "广东药科大学",
+          "course_name": "医药英语词汇学",
+          "teacher": "郑瑶菲"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "药物分析",
+          "teacher": "宋粉云"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "急危重症护理学",
+          "teacher": "罗翱翔"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "护理伦理学",
+          "teacher": "张赟"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "临床免疫学检验技术",
+          "teacher": "杨小蓉"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "中药分析",
+          "teacher": "王淑美"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "医学图像处理",
+          "teacher": "赵洁"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "图说名方 ------带你一图了解实用方剂",
+          "teacher": "王颖芳"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "医学遗传学",
+          "teacher": "张咏莉"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "化工原理2024",
+          "teacher": "蒋赣"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "探秘中成药的生产—中药药剂学",
+          "teacher": "时军"
+        },
+        {
+          "school": "广东药科大学",
+          "course_name": "医药产品开发与创业训练",
+          "teacher": "吴帆"
+        }
+      ]
+    },
+    {
+      "school": "华南师范大学",
+      "total_courses": 47,
+      "courses": [
+        {
+          "school": "华南师范大学",
+          "course_name": "教学设计原理与方法",
+          "teacher": "谢幼如"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "实验心理学",
+          "teacher": "陈彩琦"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "《论语》教育智慧品绎",
+          "teacher": "黄明喜"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "植物生理学",
+          "teacher": "李玲"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "人工智能教育应用",
+          "teacher": "胡小勇"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "小学课程设计与评价",
+          "teacher": "曾文婕"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "化学教学论手持技术数字化实验",
+          "teacher": "钱扬义"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "教育技术学研究方法",
+          "teacher": "谢幼如"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "现代教育技术应用",
+          "teacher": "柯清超"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "学习的革命",
+          "teacher": "张妙华"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "移动学习的理论、技术与实践",
+          "teacher": "况姗芸"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "中学物理教学设计",
+          "teacher": "张军朋"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "教育心理学",
+          "teacher": "何先友"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "毕业论文写作与答辩",
+          "teacher": "武丽志"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "心理学",
+          "teacher": "刘学兰"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "心理学研究方法",
+          "teacher": "王瑞明"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "心理统计学",
+          "teacher": "陈启山"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "体育概论",
+          "teacher": "邓星华"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "运动生理学",
+          "teacher": "王松涛"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "电动力学",
+          "teacher": "杨湘波"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "信息素养：开启学术研究之门",
+          "teacher": "张倩苇"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "中国文化概论",
+          "teacher": "孙雪霞"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "中小学音乐教学设计与案例评析",
+          "teacher": "王朝霞"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "小学现代教育技术应用",
+          "teacher": "尹睿"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "E-Prime实验设计技术",
+          "teacher": "曾祥炎"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "理性思维实训",
+          "teacher": "唐昊"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "教育法学",
+          "teacher": "彭虹斌"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "翻转课堂与混合学习",
+          "teacher": "陈娬"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "中学生认知与学习",
+          "teacher": "陈俊"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "体育社会学",
+          "teacher": "马廉祯"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "外语教育技术",
+          "teacher": "刘晓斌"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "生态学",
+          "teacher": "李韶山"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "微生物学",
+          "teacher": "张松"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "教育传播学",
+          "teacher": "胡小勇"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "公共教育学",
+          "teacher": "扈中平"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "《孟子》教育智慧品绎",
+          "teacher": "黄明喜"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "有机化学实验",
+          "teacher": "王辉"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "光学发展与人类文明",
+          "teacher": "王金东"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "教学媒体的理论与实践",
+          "teacher": "穆肃"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "普通化学",
+          "teacher": "章伟光"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "物理化学（上）",
+          "teacher": "孙艳辉"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "物理化学（下）",
+          "teacher": "孙艳辉"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "无机化学—元素化学",
+          "teacher": "万霞"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "无机化学-化学原理",
+          "teacher": "万霞"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "教师协同工作务实",
+          "teacher": "穆肃"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "分子生物学（2024秋）",
+          "teacher": "黄立华"
+        },
+        {
+          "school": "华南师范大学",
+          "course_name": "化学之美（2024秋）",
+          "teacher": "徐志广"
+        }
+      ]
+    },
+    {
+      "school": "广州体育学院",
+      "total_courses": 6,
+      "courses": [
+        {
+          "school": "广州体育学院",
+          "course_name": "运动生物化学",
+          "teacher": "翁锡全"
+        },
+        {
+          "school": "广州体育学院",
+          "course_name": "路跑训练指导",
+          "teacher": "董广新"
+        },
+        {
+          "school": "广州体育学院",
+          "course_name": "运动健康生物化学",
+          "teacher": "李裕和"
+        },
+        {
+          "school": "广州体育学院",
+          "course_name": "排球在线开放课程第六期（金课教学）",
+          "teacher": "王革"
+        },
+        {
+          "school": "广州体育学院",
+          "course_name": "学校体育学",
+          "teacher": "王菁"
+        },
+        {
+          "school": "广州体育学院",
+          "course_name": "运动解剖学",
+          "teacher": "麦全安"
+        }
+      ]
+    },
+    {
+      "school": "广州美术学院",
+      "total_courses": 4,
+      "courses": [
+        {
+          "school": "广州美术学院",
+          "course_name": "山水时空漫游——中国山水画鉴赏",
+          "teacher": "张东"
+        },
+        {
+          "school": "广州美术学院",
+          "course_name": "古法传承——古典工笔画临摹",
+          "teacher": "于理"
+        },
+        {
+          "school": "广州美术学院",
+          "course_name": "山水时空漫游— —中国山水画鉴赏",
+          "teacher": "张东"
+        },
+        {
+          "school": "广州美术学院",
+          "course_name": "版画的媒介与观念（第三期）",
+          "teacher": "邓耀明"
+        }
+      ]
+    },
+    {
+      "school": "星海音乐学院",
+      "total_courses": 3,
+      "courses": [
+        {
+          "school": "星海音乐学院",
+          "course_name": "合唱钢琴伴奏艺术",
+          "teacher": "郭洁"
+        },
+        {
+          "school": "星海音乐学院",
+          "course_name": "带你走进合唱与指挥",
+          "teacher": "张新"
+        },
+        {
+          "school": "星海音乐学院",
+          "course_name": "西方作曲技术风格分析与仿作",
+          "teacher": "刘天石"
+        }
+      ]
+    },
+    {
+      "school": "广东技术师范大学",
+      "total_courses": 19,
+      "courses": [
+        {
+          "school": "广东技术师范大学",
+          "course_name": "创业之路——带你玩转商业模式",
+          "teacher": "黄明睿"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "创业之路——带你玩转设计思维",
+          "teacher": "黄明睿"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "班主任与班级建设",
+          "teacher": "汪永智"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "带你探索职业生涯规划（2025春）",
+          "teacher": "钟健雄"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "毛泽东思想和中国特色社会主义理论体系概论（第七期）",
+          "teacher": "李尚旗"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "党史学习教育专题：长征路上话初心",
+          "teacher": "李尚旗"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "职业教育心理学（第11期）",
+          "teacher": "陈丽君"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "英语经典影片赏析（2025春）",
+          "teacher": "徐玲"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "千年客韵—中华客家山歌（2025春）",
+          "teacher": "陈菊芬"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "古诗词吟唱与鉴赏（2025春）",
+          "teacher": "苏玲芬"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "大学生心理健康教育（2025春）",
+          "teacher": "王明粤"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "工业机器人技术基础",
+          "teacher": "姚屏"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "新闻英语视听说",
+          "teacher": "黄南芳"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "工科中的设计思维",
+          "teacher": "黄明睿"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "知识产权与科技创新",
+          "teacher": "姚屏"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "汽车检测与诊断技术",
+          "teacher": "杜灿谊"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "现代教育学概论",
+          "teacher": "刘海兰"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "现代职业教育教学论",
+          "teacher": "王红云"
+        },
+        {
+          "school": "广东技术师范大学",
+          "course_name": "机械专业教学法",
+          "teacher": "姚屏"
+        }
+      ]
+    },
+    {
+      "school": "广东财经大学",
+      "total_courses": 14,
+      "courses": [
+        {
+          "school": "广东财经大学",
+          "course_name": "普通逻辑学",
+          "teacher": "岳丽艳"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "创意思维",
+          "teacher": "汪欣"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "市场营销学",
+          "teacher": "谢军"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "商业银行经营管理",
+          "teacher": "王向荣"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "行政管理学",
+          "teacher": "姚军"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "马克思主义基本原理（第十二期）",
+          "teacher": "袁继红"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "会计学（2024春季）",
+          "teacher": "孔令辉"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "经济法",
+          "teacher": "谢伟"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "宪法学第9次开课",
+          "teacher": "杜承铭"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "互联网+思维与技术",
+          "teacher": "王志坚"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "可视化移动应用编程",
+          "teacher": "白雪梅"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "社会心理学",
+          "teacher": "李美华"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "土地管理学",
+          "teacher": "李艳"
+        },
+        {
+          "school": "广东财经大学",
+          "course_name": "财经英语",
+          "teacher": "陈冬纯"
+        }
+      ]
+    },
+    {
+      "school": "广州大学",
+      "total_courses": 27,
+      "courses": [
+        {
+          "school": "广州大学",
+          "course_name": "动态几何",
+          "teacher": "张景中"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "生死学",
+          "teacher": "胡宜安"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "大学体育1（篮球）",
+          "teacher": "张怀钊"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "中国近现代史纲要",
+          "teacher": "吴九占"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "生死学Thanatology",
+          "teacher": "胡宜安"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "生命科学与人类生活",
+          "teacher": "田长恩"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "带你听懂中国传统音乐",
+          "teacher": "刘瑾"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "西方哲学经典赏析",
+          "teacher": "陈咸瑜"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "中国文化名著导读",
+          "teacher": "王睿"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "政治学原理",
+          "teacher": "王霞"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "行政管理学（广州大学）",
+          "teacher": "徐凌"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "土木工程结构抗震",
+          "teacher": "周云"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "精益创业",
+          "teacher": "张延平"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "新时代中国特色社会主义理论与实践（2024秋）",
+          "teacher": "吴九占"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "创业基础",
+          "teacher": "王满四"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "回望江山",
+          "teacher": "吴九占"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "大学体育2（篮球）",
+          "teacher": "张怀钊"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "生命科学与 人类生活",
+          "teacher": "田长恩"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "中国共产党历史 1921-2021",
+          "teacher": "吴九占"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "机械创新与发明",
+          "teacher": "江帆"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "马克思主义新闻理论基础（2024-2025第二学期）",
+          "teacher": "田秋生"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "水污染控制工程",
+          "teacher": "李淑更"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "大学写作",
+          "teacher": "耿淑艳"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "智慧城市",
+          "teacher": "张新长"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "统计学",
+          "teacher": "王孟欣"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "编译原理",
+          "teacher": "汤茂斌"
+        },
+        {
+          "school": "广州大学",
+          "course_name": "现代英语诗歌欣赏",
+          "teacher": "黎志敏"
+        }
+      ]
+    },
+    {
+      "school": "广东警官学院",
+      "total_courses": 1,
+      "courses": [
+        {
+          "school": "广东警官学院",
+          "course_name": "警务英语",
+          "teacher": "李响"
+        }
+      ]
+    },
+    {
+      "school": "仲恺农业工程学院",
+      "total_courses": 3,
+      "courses": [
+        {
+          "school": "仲恺农业工程学院",
+          "course_name": "数据结构与算法",
+          "teacher": "石玉强"
+        },
+        {
+          "school": "仲恺农业工程学院",
+          "course_name": "C语言程序设计",
+          "teacher": "石玉强"
+        },
+        {
+          "school": "仲恺农业工程学院",
+          "course_name": "花卉学",
+          "teacher": "惠俊爱"
+        }
+      ]
+    },
+    {
+      "school": "广东金融学院",
+      "total_courses": 4,
+      "courses": [
+        {
+          "school": "广东金融学院",
+          "course_name": "大数据工具应用",
+          "teacher": "钟雪灵"
+        },
+        {
+          "school": "广东金融学院",
+          "course_name": "趣修经济学——微观篇",
+          "teacher": "李艳"
+        },
+        {
+          "school": "广东金融学院",
+          "course_name": "思想道德修养与法律基础",
+          "teacher": "王韵"
+        },
+        {
+          "school": "广东金融学院",
+          "course_name": "信用管理学",
+          "teacher": "唐明琴"
+        }
+      ]
+    },
+    {
+      "school": "广东工业大学",
+      "total_courses": 15,
+      "courses": [
+        {
+          "school": "广东工业大学",
+          "course_name": "现代传媒与批判性思维",
+          "teacher": "曹凤霞"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "化工原理",
+          "teacher": "郑育英"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "音乐漫步",
+          "teacher": "王勇杰"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "电力系统分析（下）",
+          "teacher": "周永旺"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "程序设计基础",
+          "teacher": "谢光强"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "电路",
+          "teacher": "杨健"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "延伸未来的新媒体：新媒体设计概论",
+          "teacher": "汤晓颖"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "学术英语阅读",
+          "teacher": "陈晓茹"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "无机化学",
+          "teacher": "温红丽"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "制药工程原理与设备",
+          "teacher": "周渭"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "工程管理（2025春）",
+          "teacher": "冯为民"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "微积分理论与实践精讲",
+          "teacher": "章云"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "控制系统设计与实践",
+          "teacher": "李明"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "电子电路CAD实训",
+          "teacher": "徐迎晖"
+        },
+        {
+          "school": "广东工业大学",
+          "course_name": "生态城市规划的理论与方法",
+          "teacher": "蔡云楠"
+        }
+      ]
+    },
+    {
+      "school": "广东外语外贸大学",
+      "total_courses": 27,
+      "courses": [
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "交替传译",
+          "teacher": "余怿"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "市场营销英语",
+          "teacher": "刘亮星"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "中级英语写作",
+          "teacher": "梁静璧"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "行政法与行政诉讼法",
+          "teacher": "石佑启"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "法语口译",
+          "teacher": "邓玮"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "钢琴即兴伴奏",
+          "teacher": "蔡常青"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "基础西班牙语",
+          "teacher": "陈星"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "审计学原理",
+          "teacher": "黄浩"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "中学英语教学法",
+          "teacher": "吴岩"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "民法总论",
+          "teacher": "王荣珍"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "英美文学",
+          "teacher": "张欣"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "西方文化之窗",
+          "teacher": "李惠胤"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "人力资源管理英语",
+          "teacher": "杨小婉"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "当代美国社会与文化",
+          "teacher": "韩锐"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "商业伦理与可持续发展",
+          "teacher": "朱文忠"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "国际法",
+          "teacher": "袁泉"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "基础日语一（初级日语实用表达）",
+          "teacher": "王兰"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "刑事诉讼法学",
+          "teacher": "杨帆"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "动漫IP营销传播",
+          "teacher": "龚婉祺"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "公众口语表达",
+          "teacher": "李峻岭"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "教育哲学",
+          "teacher": "柯晓玲"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "消费者行为学在中国",
+          "teacher": "郝佳"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "东亚研究",
+          "teacher": "辛暨梅"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "日本茶道文化",
+          "teacher": "严敏"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "国际商法（英文） International Business Law",
+          "teacher": "韩永红"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "基础会计（全英）",
+          "teacher": "郭桂杭"
+        },
+        {
+          "school": "广东外语外贸大学",
+          "course_name": "视频拍摄与剪辑",
+          "teacher": "储晓戈"
+        }
+      ]
+    },
+    {
+      "school": "南方医科大学",
+      "total_courses": 30,
+      "courses": [
+        {
+          "school": "南方医科大学",
+          "course_name": "针灸百日通",
+          "teacher": "张东淑"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "寄生人体的恶魔—医学寄生虫学",
+          "teacher": "彭鸿娟"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "舌尖上的中药-五脏健康百病消",
+          "teacher": "袁立霞"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "外科学黑科技",
+          "teacher": "田京"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "小穴位 大健康",
+          "teacher": "黄泳"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "临床技能学",
+          "teacher": "田京"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "康复医学",
+          "teacher": "黄国志"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "互联网+大学英语",
+          "teacher": "陈泽璇"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "医学统计学",
+          "teacher": "关颖"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "疾病的奥秘-病理学",
+          "teacher": "梁莉"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "急危重症护理学",
+          "teacher": "史蕾"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "心理咨询与治疗学",
+          "teacher": "赵静波"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "《中医外科学》诠说",
+          "teacher": "邓燕"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "医学伦理学",
+          "teacher": "严金海"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "齿间的奥秘",
+          "teacher": "徐稳安"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "精神心理照护学",
+          "teacher": "陈瑜"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "药事管理",
+          "teacher": "沈群"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "临床微生物学检验技术",
+          "teacher": "芮勇宇"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "健康评估-学评估方法，做健康守门人",
+          "teacher": "张立力"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "儿科学",
+          "teacher": "王斌"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "医学生创新创业理论与实践",
+          "teacher": "黄国志"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "Simplified Acupuncture and Moxibustion",
+          "teacher": "张东淑"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "A Bite of Chinese Materia Medica",
+          "teacher": "袁立霞"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "思想道德与法治",
+          "teacher": "吉志鹏"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "基础化学",
+          "teacher": "游文玮"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "寄生人体的恶魔——《医学寄生虫学》",
+          "teacher": "彭鸿娟"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "人体解剖学",
+          "teacher": "钟世镇"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "公共卫生实践技能（第七期）",
+          "teacher": "李华"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "断层解剖学",
+          "teacher": "钟世镇"
+        },
+        {
+          "school": "南方医科大学",
+          "course_name": "耳鼻咽喉头颈外科学",
+          "teacher": "张宏征"
+        }
+      ]
+    },
+    {
+      "school": "广东轻工职业技术大学",
+      "total_courses": 9,
+      "courses": [
+        {
+          "school": "广东轻工职业技术大学",
+          "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+          "teacher": "储水江"
+        },
+        {
+          "school": "广东轻工职业技术大学",
+          "course_name": "思想道德与法治",
+          "teacher": "蔡小葵"
+        },
+        {
+          "school": "广东轻工职业技术大学",
+          "course_name": "Java Web开发基础",
+          "teacher": "张婵"
+        },
+        {
+          "school": "广东轻工职业技术大学",
+          "course_name": "会展服务",
+          "teacher": "林丽青"
+        },
+        {
+          "school": "广东轻工职业技术大学",
+          "course_name": "生化检验技术",
+          "teacher": "吴亚丽"
+        },
+        {
+          "school": "广东轻工职业技术大学",
+          "course_name": "让课堂教学自我改进更轻松—“教师自评”组织实施过程",
+          "teacher": "李青"
+        },
+        {
+          "school": "广东轻工职业技术大学",
+          "course_name": "造纸化学品技术",
+          "teacher": "颜进华"
+        },
+        {
+          "school": "广东轻工职业技术大学",
+          "course_name": "汽车营销基础与实务",
+          "teacher": "陈青"
+        },
+        {
+          "school": "广东轻工职业技术大学",
+          "course_name": "职业英语",
+          "teacher": "舒立志"
+        }
+      ]
+    },
+    {
+      "school": "广东白云学院",
+      "total_courses": 5,
+      "courses": [
+        {
+          "school": "广东白云学院",
+          "course_name": "市场调查",
+          "teacher": "朱峰"
+        },
+        {
+          "school": "广东白云学院",
+          "course_name": "工程材料",
+          "teacher": "曹玉华"
+        },
+        {
+          "school": "广东白云学院",
+          "course_name": "仓储与配送管理",
+          "teacher": "王如心"
+        },
+        {
+          "school": "广东白云学院",
+          "course_name": "桥梁工程",
+          "teacher": "臧进"
+        },
+        {
+          "school": "广东白云学院",
+          "course_name": "家居产品设计",
+          "teacher": "潘文芳"
+        }
+      ]
+    },
+    {
+      "school": "广东培正学院",
+      "total_courses": 1,
+      "courses": [
+        {
+          "school": "广东培正学院",
+          "course_name": "全景制作技术之摄像基础",
+          "teacher": "徐光明"
+        }
+      ]
+    },
+    {
+      "school": "广州城市理工学院",
+      "total_courses": 1,
+      "courses": [
+        {
+          "school": "广州城市理工学院",
+          "course_name": "设计色彩与构成",
+          "teacher": "梁文思"
+        }
+      ]
+    },
+    {
+      "school": "广州华商学院",
+      "total_courses": 3,
+      "courses": [
+        {
+          "school": "广州华商学院",
+          "course_name": "大学英语视听说",
+          "teacher": "刘阳"
+        },
+        {
+          "school": "广州华商学院",
+          "course_name": "资本市场运作（2024年秋季，8期）",
+          "teacher": "杨俏文"
+        },
+        {
+          "school": "广州华商学院",
+          "course_name": "计算机辅助设计—Rhino（第七期）",
+          "teacher": "李宏"
+        }
+      ]
+    },
+    {
+      "school": "华南农业大学珠江学院",
+      "total_courses": 1,
+      "courses": [
+        {
+          "school": "华南农业大学珠江学院",
+          "course_name": "高等数学（经济类）",
+          "teacher": "林伟初"
+        }
+      ]
+    },
+    {
+      "school": "广州理工学院",
+      "total_courses": 2,
+      "courses": [
+        {
+          "school": "广州理工学院",
+          "course_name": "回望江山-走进中国近现代历史拐点的深处",
+          "teacher": "吴九占"
+        },
+        {
+          "school": "广州理工学院",
+          "course_name": "机械制图与AutoCAD",
+          "teacher": "李俊文"
+        }
+      ]
+    },
+    {
+      "school": "广州工商学院",
+      "total_courses": 1,
+      "courses": [
+        {
+          "school": "广州工商学院",
+          "course_name": "管理学",
+          "teacher": "周桂凤"
+        }
+      ]
+    },
+    {
+      "school": "广州番禺职业技术学院",
+      "total_courses": 8,
+      "courses": [
+        {
+          "school": "广州番禺职业技术学院",
+          "course_name": "税法",
+          "teacher": "杨则文"
+        },
+        {
+          "school": "广州番禺职业技术学院",
+          "course_name": "软件测试",
+          "teacher": "贺平"
+        },
+        {
+          "school": "广州番禺职业技术学院",
+          "course_name": "税务会计",
+          "teacher": "黄玑"
+        },
+        {
+          "school": "广州番禺职业技术学院",
+          "course_name": "个人理财业务",
+          "teacher": "吴娜"
+        },
+        {
+          "school": "广州番禺职业技术学院",
+          "course_name": "商业银行综合柜台业务",
+          "teacher": "吴娜"
+        },
+        {
+          "school": "广州番禺职业技术学院",
+          "course_name": "外汇交易实务",
+          "teacher": "任碧峰"
+        },
+        {
+          "school": "广州番禺职业技术学院",
+          "course_name": "软件测试管理与实践",
+          "teacher": "赵聚雪"
+        },
+        {
+          "school": "广州番禺职业技术学院",
+          "course_name": "金融学基础",
+          "teacher": "王心如"
+        }
+      ]
+    }
+  ],
+  "status": "success"
+}

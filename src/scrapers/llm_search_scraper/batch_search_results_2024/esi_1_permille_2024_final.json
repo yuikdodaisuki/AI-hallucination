@@ -1,0 +1,328 @@
+{
+  "metric": "esi_1_permille",
+  "target_year": 2024,
+  "search_completed_at": "2025-06-05T15:59:48.309235",
+  "total_universities": 40,
+  "successful_searches": 12,
+  "failed_searches": 28,
+  "success_rate": "30.0%",
+  "data_sources_summary": [
+    "ESI数据库"
+  ],
+  "university_data": {
+    "广州医科大学": {
+      "data_value": "1",
+      "data_sources": [
+        "ESI数据库"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gzhmu.edu.cn/info/1192/23341.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://tsg.gdmu.edu.cn/info/1173/4092.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州医科大学ESI前1‰学科数量和具体学科名称列表的信息：\n\n### 广州医科大学ESI前1‰学科数量：\n1个学科\n\n### 具体学科名称列表：\n- 临床医学\n\n### 数据来源和更新时间：\n- 数据来源：广州医科大学官网、科睿唯安（Clarivate Analytics）ESI数据库\n- 更新时间：2024年11月14日\n\n### 数据来源网址：\n1. [广州医科大学官网](https://www.gzhmu.edu.cn/info/1192/23341.htm)：提供了广州医科大学ESI全球前1%学科概览，包括临床医学进入全球前1‰的信息。\n2. [科睿唯安ESI数据库](https://tsg.gdmu.edu.cn/info/1173/4092.htm)：提供了广州医科大学ESI学科发展简报，包括临床医学进入全球前1‰的数据。\n\n以上信息均来自权威网站，包括广州医科大学官网和科睿唯安ESI数据库，确保了数据的准确性和权威性。"
+    },
+    "广州中医药大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gzucm.edu.cn/info/1621/105951.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.sohu.com/a/779676949_121657678",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2025年",
+      "search_result_summary": "根据权威网站提供的最新数据，以下是广州中医药大学ESI前1‰学科数量和具体学科名称列表的信息：\n\n### 数据来源和更新时间：\n1. **广州中医药大学官网**：[广州中医药大学官网](https://www.gzucm.edu.cn/info/1621/105951.htm)，更新时间为2025年3月，数据更新结点为2025年3月13日，统计时间范围为2014年1月1日-2024年12月31日。\n\n2. **搜狐新闻**：[搜狐新闻](https://www.sohu.com/a/779676949_121657678)，更新时间为2024年5月，数据更新结点为2024年5月9日，统计时间范围为2014年1月1日-2024年2月28日。\n\n### 广州中医药大学ESI前1‰学科数量：\n根据上述来源，广州中医药大学拥有1个ESI前1‰学科。\n\n### 具体学科名称列表：\n- **药理学与毒理学**：该学科在2024年5月的ESI数据中进入了全球前1‰学科之列，代表着该学科已经达到国际领先水平。\n\n以上信息提供了广州中医药大学在ESI前1‰学科的最新统计数据，包括学科数量和具体学科名称。请注意，数据来源和更新时间均已明确标注，确保了信息的准确性和时效性。"
+    },
+    "广东药科大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gdpu.edu.cn/info/1084/1924.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.sohu.com/a/700784956_120660084",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://library.gdpu.edu.cn/info/1099/11550.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站的数据，以下是广东药科大学ESI前1‰学科的数量和具体学科名称列表：\n\n### 广东药科大学ESI前1‰学科数量：\n- **数量**：5个\n\n### 具体学科名称列表：\n1. **临床医学**\n2. **化学**\n3. **药理学与毒理学**\n4. **农业科学**\n5. **生物学与生物化学**\n\n### 数据来源和更新时间：\n- **数据来源**：广东药科大学官网、科睿唯安（Clarivate Analytics）发布的ESI数据\n- **更新时间**：2024年1月\n\n### 来源网址：\n1. [广东药科大学官网](https://www.gdpu.edu.cn/info/1084/1924.htm)（提供ESI数据的一般介绍）\n2. [科睿唯安（Clarivate Analytics）发布的ESI数据](https://www.sohu.com/a/700784956_120660084)（报道广东药科大学生物学与生物化学学科首次进入ESI全球排名前1%榜单）\n3. [广东药科大学图书馆](https://library.gdpu.edu.cn/info/1099/11550.htm)（提供详细的ESI学科动态报告）\n\n以上数据均截止到2024年1月，具体学科名称和数量均基于最新的ESI数据。"
+    },
+    "广州大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://tm.gzhu.edu.cn/info/1003/4340.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站的信息，以下是广州大学ESI前1‰学科的数量和具体学科名称列表：\n\n### 广州大学ESI前1‰学科数量：\n1个学科\n\n### 广州大学ESI前1‰学科名称列表：\n- 工程学\n\n### 数据来源和更新时间：\n- 数据来源：广州大学官网\n- 更新时间：2024年7月11日\n- 来源网址：[广州大学官网](https://tm.gzhu.edu.cn/info/1003/4340.htm)\n\n请注意，以上数据是基于2024年可获得的最新数据。"
+    },
+    "广州航海学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gzmtu.edu.cn/info/1018/18184.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州航海学院ESI前1‰学科数量和相关信息：\n\n1. **数据来源**：[广州航海学院官网](https://www.gzmtu.edu.cn/info/1018/18184.htm)，更新时间：2025年1月15日。\n2. **ESI前1‰学科数量**：根据搜索结果，没有找到广州航海学院有ESI前1‰学科的记录。\n3. **学科名称列表**：搜索结果中未提供具体的ESI前1‰学科名称列表。\n\n综上所述，广州航海学院目前没有ESI前1‰学科。以上信息基于最接近2024年的可获得数据（2025年1月15日更新的数据）。"
+    },
+    "广东警官学院": {
+      "data_value": "1",
+      "data_sources": [
+        "ESI数据库"
+      ],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://libimg.jnu.edu.cn/ContentDelivery/20240112/2024%E5%B9%B41%E6%9C%88%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6ESI%E5%BF%AB%E6%8A%A5_C165A85629A9EC0256CB6523E825CAE1.pdf",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广东警官学院ESI前1‰学科数量和具体学科名称列表的信息：\n\n1. **数据来源**：[ESI数据库](https://libimg.jnu.edu.cn/ContentDelivery/20240112/2024%E5%B9%B41%E6%9C%88%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6ESI%E5%BF%AB%E6%8A%A5_C165A85629A9EC0256CB6523E825CAE1.pdf)，更新时间：2024年1月11日。\n2. **ESI前1‰学科数量**：1个。\n3. **具体学科名称列表**：药理学与毒理学。\n\n以上信息显示，广东警官学院在2024年1月11日的ESI数据中，药理学与毒理学学科首次进入ESI全球前1‰行列。"
+    },
+    "仲恺农业工程学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://baike.baidu.com/item/%E4%BB%B2%E6%81%BA%E5%86%9C%E4%B8%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/1731592",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://www.sohu.com/a/700168555_121124021",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://news.zhku.edu.cn/info/1004/61596.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站提供的最新数据，以下是仲恺农业工程学院的ESI前1‰学科数量和具体学科名称列表：\n\n### ESI前1‰学科数量：\n仲恺农业工程学院目前没有ESI前1‰学科。\n\n### ESI前1%学科名称列表：\n1. **植物学与动物科学**\n2. **工程科学**\n3. **农业科学**\n\n### 数据来源和更新时间：\n- 数据来源：[百度百科](https://baike.baidu.com/item/%E4%BB%B2%E6%81%BA%E5%86%9C%E4%B8%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/1731592)、[搜狐新闻](https://www.sohu.com/a/700168555_121124021)、[仲恺农业工程学院官网](https://news.zhku.edu.cn/info/1004/61596.htm)\n- 数据更新时间：2024年3月\n\n以上信息提供了仲恺农业工程学院在ESI全球排名前1%的学科数量和具体学科名称，以及数据来源和更新时间。需要注意的是，目前仲恺农业工程学院没有ESI前1‰学科。"
+    },
+    "广东金融学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://news.southcn.com/node_6854f1135c/fcde34f267.shtml",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://app.gaokaozhitongche.com/news/h/QOgEdYl2",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，广东金融学院的ESI前1‰学科数量为0。以下是详细信息：\n\n1. **数据来源**：南方新闻网\n   - **网址**：[南方新闻网](https://news.southcn.com/node_6854f1135c/fcde34f267.shtml)\n   - **更新时间**：2024年\n   - **数据**：在此次ESI排名中，广东24所高校共有173个学科入选全球前1%，其中21个学科入选全球前1‰。广东金融学院不在拥有前1‰学科的高校名单中。\n\n2. **数据来源**：科睿唯安ESI统计数据\n   - **网址**：[科睿唯安ESI统计数据](https://app.gaokaozhitongche.com/news/h/QOgEdYl2)\n   - **更新时间**：2024年\n   - **数据**：广东高校27所高校211个学科，进入全球前1%，其中9所高校27个学科进入全球前1‰，广东金融学院不在拥有前1‰学科的高校名单中。\n\n综上所述，广东金融学院没有ESI前1‰学科，具体学科名称列表为空。数据来源为南方新闻网和科睿唯安ESI统计数据，更新时间为2024年。"
+    },
+    "广东工业大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://www.gdut.edu.cn/info/1708/22643.htm",
+          "description": "搜索结果中的数据源链接"
+        },
+        {
+          "type": "网址",
+          "url": "https://static.nfapp.southcn.com/content/202401/12/c8497828.html",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2025年",
+      "search_result_summary": "根据权威网站的数据，以下是广东工业大学ESI前1‰学科数量和具体学科名称列表的信息：\n\n1. **数据来源**：广东工业大学官网\n   - **网址**：[广东工业大学官网](https://www.gdut.edu.cn/info/1708/22643.htm)\n   - **数据更新时间**：2025年5月8日\n   - **ESI前1‰学科数量**：3个\n   - **具体学科名称列表**：\n     - 工程学（Engineering）\n     - 材料科学（Materials Science）\n     - 计算机科学（Computer Science）\n\n2. **数据来源**：南方+媒体链接\n   - **网址**：[南方+](https://static.nfapp.southcn.com/content/202401/12/c8497828.html)\n   - **数据更新时间**：2024年1月12日\n   - **ESI前1‰学科数量**：3个（与广东工业大学官网数据一致）\n   - **具体学科名称列表**：\n     - 工程学（Engineering）\n     - 材料科学（Materials Science）\n     - 计算机科学（Computer Science）\n\n以上信息显示，广东工业大学共有3个学科进入ESI全球排名前1‰，具体学科为工程学、材料科学和计算机科学。数据来源为广东工业大学官网和南方+媒体链接，更新时间为2025年5月8日和2024年1月12日。由于没有找到2024年的具体数据，提供的数据为最接近2024年的可获得数据。"
+    },
+    "广东外语外贸大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://guangdong.eol.cn/gdgd/202302/t20230228_2308015.shtml",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2023年",
+      "search_result_summary": "根据搜索结果，以下是广东外语外贸大学ESI前1‰学科数量的相关信息：\n\n1. **数据来源**：[南方网](https://guangdong.eol.cn/gdgd/202302/t20230228_2308015.shtml)，更新时间：2023年2月28日。\n2. **ESI前1‰学科数量**：0个。\n3. **ESI前1%学科数量**：2个，分别是社会科学总论和工程学学科。\n\n广东外语外贸大学目前没有ESI前1‰的学科，但有2个学科进入ESI全球前1%，分别是社会科学总论和工程学学科。这些数据反映了广东外语外贸大学在相关学科领域的国际学术影响力和研究水平。"
+    },
+    "南方医科大学": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://news.smu.edu.cn/info/1021/72316.htm",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据权威网站的信息，以下是南方医科大学ESI前1‰学科的数量和具体学科名称列表：\n\n1. **数据来源**：[南方医科大学官网](https://news.smu.edu.cn/info/1021/72316.htm)，更新时间：2024年\n   - **ESI前1‰学科数量**：2个\n   - **学科名称列表**：\n     - 药理学与毒理学（全球前0.29‰）\n     - 临床医学（全球前0.37‰）\n\n以上信息提供了南方医科大学ESI前1‰学科的最新数据，截止到2024年。"
+    },
+    "广州南方学院": {
+      "data_value": "1",
+      "data_sources": [],
+      "source_details": [
+        {
+          "type": "网址",
+          "url": "https://static.nfapp.southcn.com/content/202401/12/c8497828.html",
+          "description": "搜索结果中的数据源链接"
+        }
+      ],
+      "data_cutoff_date": "2024年",
+      "search_result_summary": "根据搜索结果，以下是广州南方学院的ESI前1‰学科数量和具体信息：\n\n### ESI前1‰学科数量：\n- 广州南方学院没有ESI前1‰学科。\n\n### 数据来源和更新时间：\n- 数据来源：[南方+新闻报道](https://static.nfapp.southcn.com/content/202401/12/c8497828.html)，报道中提到“前1‰学科涉及广东9所高校”，并未提及广州南方学院。\n- 更新时间：2024年1月。\n\n### 具体学科名称列表：\n- 由于广州南方学院没有ESI前1‰学科，因此无法提供具体学科名称列表。\n\n综上所述，广州南方学院没有ESI前1‰学科。以上数据来源于南方+新闻报道，更新时间为2024年1月。"
+    }
+  },
+  "failed_universities": [
+    {
+      "university": "中山大学",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "暨南大学",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "华南理工大学",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "华南农业大学",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "华南师范大学",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州体育学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州美术学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "星海音乐学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广东技术师范大学",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广东财经大学",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广东第二师范学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广东轻工职业技术大学",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广东白云学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广东培正学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州城市理工学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州软件学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广东外语外贸大学南国商学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州华商学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "华南农业大学珠江学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州理工学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州华立学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州应用科技学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州商学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州工商学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州科技职业技术大学",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州新华学院",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "香港科技大学（广州）",
+      "error": "搜索过程中断"
+    },
+    {
+      "university": "广州番禺职业技术学院",
+      "error": "搜索过程中断"
+    }
+  ]
+}
