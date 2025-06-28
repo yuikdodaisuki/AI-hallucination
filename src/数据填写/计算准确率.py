@@ -21,7 +21,7 @@ def main():
     current_dir = os.path.dirname(os.path.abspath(__file__))
     base_dir = os.path.dirname(os.path.dirname(current_dir))  # 回到AI-hallucination目录
     
-    file_name = 'ai_evaluation_dataset_long_学术型博士学位点_answers.csv'
+    file_name = 'merged_evaluation_dataset_20250628_222209.csv'
     file_csv = os.path.join(base_dir, file_name)
     
     if not os.path.exists(file_csv):
