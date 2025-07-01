@@ -69,7 +69,7 @@ def read_answer_file(file_path):
             return None
         
         # 检查必需的列
-        required_columns = ['学校名称', '指标名称', 'AI答案']
+        required_columns = ['学校名称', '指标名称', '标准答案','AI答案']
         missing_columns = [col for col in required_columns if col not in df.columns]
         
         if missing_columns:
@@ -77,7 +77,7 @@ def read_answer_file(file_path):
             return None
         
         # 只保留需要的列
-        df = df[['学校名称', '指标名称', 'AI答案']].copy()
+        df = df[['学校名称', '指标名称','标准答案', 'AI答案']].copy()
         
         # 清理数据
         df = df.dropna(subset=['学校名称'])  # 删除学校名称为空的行
@@ -151,9 +151,6 @@ def merge_answer_tables(input_directory=".", output_file=None):
     
     # 排序
     merged_df = merged_df.sort_values(['学校名称', '指标名称'])
-    
-    # 添加标准答案列（初始值为"待填充"）
-    merged_df.insert(2, '标准答案', '待填充')
     
     # 重新排列列顺序
     merged_df = merged_df[['学校名称', '指标名称', '标准答案', 'AI答案']]
